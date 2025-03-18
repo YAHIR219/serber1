@@ -720,3 +720,30 @@
 [18Mar2025 20:31:32.613] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
 [18Mar2025 20:31:32.613] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
 [18Mar2025 20:34:04.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kusting has made the advancement [Recrafted Creatures]
+[18Mar2025 20:47:04.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kusting has made the advancement [Acquire Hardware]
+[18Mar2025 20:53:53.169] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PlagaXNZ[/127.71.30.2:59119] logged in with entity id 39560 at (-451.58866988816413, 66.5625, 1716.8059891947862)
+[18Mar2025 20:53:53.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ joined the game
+[18Mar2025 20:53:53.220] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 20:53:53.572] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PlagaXNZ (18)
+[18Mar2025 20:53:53.573] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 20:53:54.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 20:53:55.481] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 20:53:55.481] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 20:54:36.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kusting> mca destiny
+[18Mar2025 20:55:08.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Player data reset.]
+[18Mar2025 20:55:23.212] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[18Mar2025 20:55:23.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[18Mar2025 20:55:23.213] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 20:55:23.213] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
+[18Mar2025 20:55:27.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PlagaXNZ[/127.71.30.2:34459] logged in with entity id 39909 at (-454.5563850791286, 66.5, 1717.0087135936965)
+[18Mar2025 20:55:27.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ joined the game
+[18Mar2025 20:55:27.115] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 20:55:27.377] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PlagaXNZ (18)
+[18Mar2025 20:55:27.378] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 20:55:28.111] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 20:55:29.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 20:55:29.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 20:55:30.304] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kusting lost connection: Disconnected
+[18Mar2025 20:55:30.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kusting left the game
+[18Mar2025 20:55:30.304] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5b081969-20df-3b7a-951b-8fe0f4489799
+[18Mar2025 20:55:30.305] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kusting
