@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-03-18 23:30:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-18 22:11:30 +0000"
@@ -104,6 +110,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-03-18 22:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-18 23:30:51 +0000"
     },
     "done": true
   },
@@ -432,6 +444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-18 23:30:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-03-18 23:17:20 +0000"
@@ -506,6 +524,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-03-18 22:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-18 23:30:51 +0000"
     },
     "done": true
   },
@@ -596,6 +620,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-03-18 22:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-18 23:30:51 +0000"
     },
     "done": true
   },
@@ -839,6 +869,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-18 23:22:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-18 22:23:52 +0000"
@@ -1010,6 +1046,12 @@
   "farm_and_charm:recipes/roaster": {
     "criteria": {
       "has_iron_ingot": "2025-03-18 22:41:36 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-03-18 23:28:21 +0000"
     },
     "done": true
   },
@@ -1279,6 +1321,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-18 21:41:44 +0000",
+      "sweet_berries": "2025-03-18 23:21:41 +0000",
       "baked_potato": "2025-03-18 22:02:45 +0000",
       "porkchop": "2025-03-18 22:57:41 +0000",
       "bread": "2025-03-18 21:52:42 +0000"

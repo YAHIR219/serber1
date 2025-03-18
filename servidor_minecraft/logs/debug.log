@@ -5160,3 +5160,31 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Mar2025 23:21:13.740] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [18Mar2025 23:21:13.740] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [18Mar2025 23:22:06.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Friendship Found]
+[18Mar2025 23:22:37.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Best Friends Forever]
+[18Mar2025 23:22:39.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 23:22:39.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 23:23:47.756] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Riyad'/32537, l='ServerLevel[world]', x=-457.53, y=63.00, z=1647.49] died, message: 'Riyad was slain by Jukusting'
+[18Mar2025 23:23:47.756] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Riyad'/32537, l='ServerLevel[world]', x=-457.53, y=63.00, z=1647.49] died: Riyad was slain by Jukusting
+[18Mar2025 23:23:52.749] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rasim'/32593, l='ServerLevel[world]', x=-467.96, y=63.00, z=1659.15] died, message: 'Rasim was slain by Jukusting'
+[18Mar2025 23:23:52.749] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Rasim'/32593, l='ServerLevel[world]', x=-467.96, y=63.00, z=1659.15] died: Rasim was slain by Jukusting
+[18Mar2025 23:24:34.090] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[18Mar2025 23:26:16.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Afet'/32539, l='ServerLevel[world]', x=-459.53, y=64.36, z=1657.71] died, message: 'Afet was slain by Jukusting'
+[18Mar2025 23:26:16.081] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Afet'/32539, l='ServerLevel[world]', x=-459.53, y=64.36, z=1657.71] died: Afet was slain by Jukusting
+[18Mar2025 23:26:58.245] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Javid'/32864, l='ServerLevel[world]', x=-455.97, y=64.00, z=1652.65] died, message: 'Javid was slain by Wolf'
+[18Mar2025 23:26:58.245] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Javid'/32864, l='ServerLevel[world]', x=-455.97, y=64.00, z=1652.65] died: Javid was slain by Wolf
+[18Mar2025 23:27:00.163] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Khayal'/32493, l='ServerLevel[world]', x=-475.74, y=63.00, z=1667.19] died, message: 'Khayal was slain by Jukusting'
+[18Mar2025 23:27:00.164] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Khayal'/32493, l='ServerLevel[world]', x=-475.74, y=63.00, z=1667.19] died: Khayal was slain by Jukusting
+[18Mar2025 23:27:39.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 23:27:39.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 23:27:53.988] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[18Mar2025 23:28:21.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Chompy]
+[18Mar2025 23:28:21.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Chompy]
+[18Mar2025 23:30:29.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ moved too quickly! -9.200159982611012,1.233632006042484,-3.769807034922451
+[18Mar2025 23:31:13.790] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[18Mar2025 23:31:13.790] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[18Mar2025 23:32:33.420] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sara'/32939, l='ServerLevel[world]', x=-434.14, y=64.00, z=1598.59] died, message: 'Sara was slain by Jukusting'
+[18Mar2025 23:32:33.420] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sara'/32939, l='ServerLevel[world]', x=-434.14, y=64.00, z=1598.59] died: Sara was slain by Jukusting
+[18Mar2025 23:32:34.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mehseti'/32940, l='ServerLevel[world]', x=-428.97, y=64.02, z=1606.18] died, message: 'Mehseti was slain by Wolf'
+[18Mar2025 23:32:34.397] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mehseti'/32940, l='ServerLevel[world]', x=-428.97, y=64.02, z=1606.18] died: Mehseti was slain by Wolf
+[18Mar2025 23:32:39.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 23:32:39.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
