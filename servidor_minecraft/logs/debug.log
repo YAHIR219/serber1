@@ -4447,3 +4447,190 @@ java.lang.IllegalStateException: Nesting problem.
 [18Mar2025 15:33:44.502] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of PlagaXNZ to connected: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
 [18Mar2025 15:33:44.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
 [18Mar2025 15:33:44.726] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:33:54.730] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:33:55.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:33:55.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:33:55.189] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to PlagaXNZ
+[18Mar2025 15:33:55.189] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with PlagaXNZ
+[18Mar2025 15:33:55.189] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with PlagaXNZ
+[18Mar2025 15:33:55.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:33:55.189] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 116e9c76-7157-3f7d-8106-557b209a5b07 to disconnected: {disabled=false, disconnected=true, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:33:55.446] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:34:46.501] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:34:46.502] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of PlagaXNZ to connected: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:34:46.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:34:56.606] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:34:56.606] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:34:56.607] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to PlagaXNZ
+[18Mar2025 15:34:56.607] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with PlagaXNZ
+[18Mar2025 15:34:56.607] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with PlagaXNZ
+[18Mar2025 15:34:56.607] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:34:56.607] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 116e9c76-7157-3f7d-8106-557b209a5b07 to disconnected: {disabled=false, disconnected=true, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:34:56.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:34:56.895] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=true, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:34:57.898] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:34:57.898] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of PlagaXNZ to connected: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:34:57.898] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:34:58.126] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:35:44.070] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:35:44.886] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:35:44.886] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:35:44.886] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to PlagaXNZ
+[18Mar2025 15:35:44.886] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with PlagaXNZ
+[18Mar2025 15:35:44.886] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with PlagaXNZ
+[18Mar2025 15:35:44.886] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:35:44.887] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 116e9c76-7157-3f7d-8106-557b209a5b07 to disconnected: {disabled=false, disconnected=true, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:35:45.222] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:35:56.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:35:56.234] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of PlagaXNZ to connected: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:35:56.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:35:56.475] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:36:45.416] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:36:46.224] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:36:46.225] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:36:46.225] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to PlagaXNZ
+[18Mar2025 15:36:46.225] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with PlagaXNZ
+[18Mar2025 15:36:46.225] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with PlagaXNZ
+[18Mar2025 15:36:46.225] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:36:46.225] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 116e9c76-7157-3f7d-8106-557b209a5b07 to disconnected: {disabled=false, disconnected=true, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:36:46.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:36:55.706] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[18Mar2025 15:37:46.617] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:37:46.617] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of PlagaXNZ to connected: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:37:46.617] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:37:46.842] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:37:56.663] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:37:56.663] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:37:56.663] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to PlagaXNZ
+[18Mar2025 15:37:56.663] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with PlagaXNZ
+[18Mar2025 15:37:56.663] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with PlagaXNZ
+[18Mar2025 15:37:56.663] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:37:56.663] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 116e9c76-7157-3f7d-8106-557b209a5b07 to disconnected: {disabled=false, disconnected=true, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:37:56.683] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38058
+[18Mar2025 15:37:56.703] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38058
+[18Mar2025 15:37:56.723] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38058
+[18Mar2025 15:37:56.738] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38058
+[18Mar2025 15:37:56.762] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38058
+[18Mar2025 15:37:56.782] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38058
+[18Mar2025 15:37:56.799] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38058
+[18Mar2025 15:37:56.823] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38058
+[18Mar2025 15:37:56.838] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=true, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:37:56.855] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38058
+[18Mar2025 15:37:57.182] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:37:58.182] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:37:58.183] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of PlagaXNZ to connected: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:37:58.183] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:37:58.428] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:38:38.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 15:38:38.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 15:38:46.172] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:38:46.979] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:38:46.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:38:46.980] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to PlagaXNZ
+[18Mar2025 15:38:46.980] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with PlagaXNZ
+[18Mar2025 15:38:46.980] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with PlagaXNZ
+[18Mar2025 15:38:46.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:38:46.980] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 116e9c76-7157-3f7d-8106-557b209a5b07 to disconnected: {disabled=false, disconnected=true, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:38:47.230] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:38:59.246] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:38:59.247] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of PlagaXNZ to connected: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:38:59.247] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:38:59.476] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:39:46.524] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:39:47.364] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:39:47.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:39:47.365] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to PlagaXNZ
+[18Mar2025 15:39:47.365] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with PlagaXNZ
+[18Mar2025 15:39:47.365] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with PlagaXNZ
+[18Mar2025 15:39:47.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:39:47.365] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 116e9c76-7157-3f7d-8106-557b209a5b07 to disconnected: {disabled=false, disconnected=true, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:39:47.703] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:39:48.703] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:39:48.703] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of PlagaXNZ to connected: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:39:48.703] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:39:48.927] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:40:01.431] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:40:01.431] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:40:01.431] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to PlagaXNZ
+[18Mar2025 15:40:01.431] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with PlagaXNZ
+[18Mar2025 15:40:01.431] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with PlagaXNZ
+[18Mar2025 15:40:01.431] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:40:01.432] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 116e9c76-7157-3f7d-8106-557b209a5b07 to disconnected: {disabled=false, disconnected=true, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:40:01.534] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60279
+[18Mar2025 15:40:01.534] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60279
+[18Mar2025 15:40:01.550] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60279
+[18Mar2025 15:40:01.566] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60279
+[18Mar2025 15:40:01.590] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60279
+[18Mar2025 15:40:01.611] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60279
+[18Mar2025 15:40:01.630] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60279
+[18Mar2025 15:40:01.646] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60279
+[18Mar2025 15:40:01.670] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60279
+[18Mar2025 15:40:01.690] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60279
+[18Mar2025 15:40:01.706] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60279
+[18Mar2025 15:40:01.730] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60279
+[18Mar2025 15:40:01.746] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60279
+[18Mar2025 15:40:01.747] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=true, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:40:01.758] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60279
+[18Mar2025 15:40:01.759] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:40:02.759] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:40:02.759] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of PlagaXNZ to connected: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:40:02.759] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:40:02.979] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:40:15.706] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[18Mar2025 15:40:47.831] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:40:48.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:40:48.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:40:48.672] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to PlagaXNZ
+[18Mar2025 15:40:48.672] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with PlagaXNZ
+[18Mar2025 15:40:48.672] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with PlagaXNZ
+[18Mar2025 15:40:48.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:40:48.672] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 116e9c76-7157-3f7d-8106-557b209a5b07 to disconnected: {disabled=false, disconnected=true, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:40:49.041] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:41:45.105] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:41:45.106] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of PlagaXNZ to connected: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:41:45.106] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:41:45.330] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:41:59.283] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:42:00.079] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:42:00.080] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:42:00.080] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to PlagaXNZ
+[18Mar2025 15:42:00.080] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with PlagaXNZ
+[18Mar2025 15:42:00.080] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with PlagaXNZ
+[18Mar2025 15:42:00.080] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:42:00.080] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 116e9c76-7157-3f7d-8106-557b209a5b07 to disconnected: {disabled=false, disconnected=true, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:42:00.339] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:42:01.339] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:42:01.339] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of PlagaXNZ to connected: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:42:01.339] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:42:01.580] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:42:48.577] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:42:49.400] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:42:49.400] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:42:49.400] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to PlagaXNZ
+[18Mar2025 15:42:49.400] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with PlagaXNZ
+[18Mar2025 15:42:49.400] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with PlagaXNZ
+[18Mar2025 15:42:49.400] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:42:49.400] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 116e9c76-7157-3f7d-8106-557b209a5b07 to disconnected: {disabled=false, disconnected=true, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:42:49.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:42:50.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:42:50.654] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of PlagaXNZ to connected: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:42:50.654] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:43:01.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:43:01.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:43:01.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to PlagaXNZ
+[18Mar2025 15:43:01.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with PlagaXNZ
+[18Mar2025 15:43:01.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with PlagaXNZ
+[18Mar2025 15:43:01.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:43:01.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 116e9c76-7157-3f7d-8106-557b209a5b07 to disconnected: {disabled=false, disconnected=true, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:43:01.665] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:59446
+[18Mar2025 15:43:01.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:43:01.735] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=true, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[18Mar2025 15:43:26.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[18Mar2025 15:43:26.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[18Mar2025 15:43:26.772] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:43:26.772] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of PlagaXNZ
+[18Mar2025 15:43:26.772] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
+[18Mar2025 15:43:35.605] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[18Mar2025 15:43:35.605] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[18Mar2025 15:43:38.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 15:43:38.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -416,6 +416,7 @@
     "criteria": {
       "cooked_mutton": "2025-03-18 04:31:49 +0000",
       "sweet_berries": "2025-03-18 04:10:32 +0000",
+      "cooked_beef": "2025-03-18 15:41:08 +0000",
       "rotten_flesh": "2025-03-18 04:30:43 +0000",
       "beetroot": "2025-03-18 04:22:40 +0000",
       "carrot": "2025-03-18 15:21:46 +0000"
@@ -1115,6 +1116,24 @@
   "farm_and_charm:recipes/barley_ball": {
     "criteria": {
       "has_barley": "2025-03-18 15:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-03-18 15:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-03-18 15:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-03-18 15:41:41 +0000"
     },
     "done": true
   },
