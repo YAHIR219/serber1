@@ -3986,3 +3986,124 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Mar2025 20:12:03.645] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [18Mar2025 20:15:23.545] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [18Mar2025 20:15:23.545] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[18Mar2025 20:16:08.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 20:16:08.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 20:18:43.744] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[18Mar2025 20:21:08.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 20:21:08.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 20:22:03.695] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[18Mar2025 20:25:23.595] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[18Mar2025 20:25:23.596] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[18Mar2025 20:26:08.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 20:26:08.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 20:28:12.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-484, y=64, z=1656} BlockPos{x=-485, y=62, z=1655}
+[18Mar2025 20:28:12.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-484, y=64, z=1656} BlockPos{x=-485, y=62, z=1655}
+[18Mar2025 20:28:15.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-489, y=64, z=1650} BlockPos{x=-490, y=63, z=1650}
+[18Mar2025 20:28:43.794] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[18Mar2025 20:30:40.929] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mowziesmobs for mod file /workspaces/serber1/servidor_minecraft/mods/mowziesmobs-1.7.1.jar
+[18Mar2025 20:30:40.929] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:tameablebeasts for mod file /workspaces/serber1/servidor_minecraft/mods/tameablebeasts-6.2.jar
+[18Mar2025 20:30:40.929] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:supermartijn642configlib for mod file /workspaces/serber1/servidor_minecraft/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar
+[18Mar2025 20:30:40.929] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:openpartiesandclaims for mod file /workspaces/serber1/servidor_minecraft/mods/open-parties-and-claims-forge-1.20.1-0.23.6.jar
+[18Mar2025 20:30:40.929] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:rechiseled for mod file /workspaces/serber1/servidor_minecraft/mods/rechiseled-1.1.6-forge-mc1.20.jar
+[18Mar2025 20:30:40.930] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:geckolib for mod file /workspaces/serber1/servidor_minecraft/mods/geckolib-forge-1.20.1-4.4.9.jar
+[18Mar2025 20:30:40.930] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:playeranimator for mod file /workspaces/serber1/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
+[18Mar2025 20:30:40.931] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:recrafted_creatures for mod file /workspaces/serber1/servidor_minecraft/mods/recrafted_creatures-1.4.6-1.20.1.jar
+[18Mar2025 20:30:40.931] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:duclib for mod file /workspaces/serber1/servidor_minecraft/mods/duclib-1.20-1.1.4.jar
+[18Mar2025 20:30:40.931] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:connectivity for mod file /workspaces/serber1/servidor_minecraft/mods/connectivity-1.20.1-6.8.jar
+[18Mar2025 20:30:40.931] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:torohealth for mod file /workspaces/serber1/servidor_minecraft/mods/ToroHealth-Unofficial-Forge-1.20.1-1.0.0.jar
+[18Mar2025 20:30:40.931] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:feathers for mod file /workspaces/serber1/servidor_minecraft/mods/feathers-1.1.jar
+[18Mar2025 20:30:40.931] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mimic for mod file /workspaces/serber1/servidor_minecraft/mods/mimic_mod-1.0.0.jar
+[18Mar2025 20:30:40.931] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:clumps for mod file /workspaces/serber1/servidor_minecraft/mods/Clumps-forge-1.20.1-12.0.0.4.jar
+[18Mar2025 20:30:40.931] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:xaeroworldmap for mod file /workspaces/serber1/servidor_minecraft/mods/XaerosWorldMap_1.39.2_Forge_1.20.jar
+[18Mar2025 20:30:40.932] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:modernfix for mod file /workspaces/serber1/servidor_minecraft/mods/modernfix-forge-5.20.2+mc1.20.1.jar
+[18Mar2025 20:30:40.932] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:jei for mod file /workspaces/serber1/servidor_minecraft/mods/jei-1.20.1-forge-15.12.2.51.jar
+[18Mar2025 20:30:40.932] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:citadel for mod file /workspaces/serber1/servidor_minecraft/mods/citadel-2.6.1-1.20.1.jar
+[18Mar2025 20:30:40.932] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:alexsmobs for mod file /workspaces/serber1/servidor_minecraft/mods/alexsmobs-1.22.9.jar
+[18Mar2025 20:30:40.932] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mixinextras for mod file 
+[18Mar2025 20:30:40.932] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:bookshelf for mod file /workspaces/serber1/servidor_minecraft/mods/Bookshelf-Forge-1.20.1-20.2.13.jar
+[18Mar2025 20:30:40.932] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fusion for mod file /workspaces/serber1/servidor_minecraft/mods/fusion-1.2.4-forge-mc1.20.1.jar
+[18Mar2025 20:30:40.932] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:carryon for mod file /workspaces/serber1/servidor_minecraft/mods/carryon-forge-1.20.1-2.1.2.7.jar
+[18Mar2025 20:30:40.932] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cloth_config for mod file /workspaces/serber1/servidor_minecraft/mods/cloth-config-11.1.136-forge.jar
+[18Mar2025 20:30:40.932] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:forge for mod file /workspaces/serber1/servidor_minecraft/libraries/net/minecraftforge/forge/1.20.1-47.3.7/forge-1.20.1-47.3.7-universal.jar
+[18Mar2025 20:30:40.933] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:konkrete for mod file /workspaces/serber1/servidor_minecraft/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar
+[18Mar2025 20:30:40.933] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:friendsandfoes for mod file /workspaces/serber1/servidor_minecraft/mods/friendsandfoes-forge-mc1.20.1-3.0.7.jar
+[18Mar2025 20:30:40.933] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:emotecraft for mod file /workspaces/serber1/servidor_minecraft/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar
+[18Mar2025 20:30:40.933] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:flowerymooblooms for mod file /workspaces/serber1/servidor_minecraft/mods/flowerymooblooms-forge-mc1.20.1-2.0.2.jar
+[18Mar2025 20:30:40.933] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:connectivity_api for mod file /workspaces/serber1/servidor_minecraft/mods/connectivity_api-1.0.0-forge-1.20.1.jar
+[18Mar2025 20:30:40.933] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:epic_knights_ores_and_alloys for mod file /workspaces/serber1/servidor_minecraft/mods/[1.20.1-forge]-Epic-Knights-Ores-and-Alloys-1.1.jar
+[18Mar2025 20:30:40.933] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:voicechat for mod file /workspaces/serber1/servidor_minecraft/mods/voicechat-forge-1.20.1-2.5.26.jar
+[18Mar2025 20:30:40.934] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:sound_physics_remastered for mod file /workspaces/serber1/servidor_minecraft/mods/sound-physics-remastered-forge-1.20.1-1.4.8.jar
+[18Mar2025 20:30:40.934] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:creativecore for mod file /workspaces/serber1/servidor_minecraft/mods/CreativeCore_FORGE_v2.12.31_mc1.20.1.jar
+[18Mar2025 20:30:40.934] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:supermartijn642corelib for mod file /workspaces/serber1/servidor_minecraft/mods/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar
+[18Mar2025 20:30:40.934] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:packedup for mod file /workspaces/serber1/servidor_minecraft/mods/packedup-1.1.0-forge-mc1.20.1.jar
+[18Mar2025 20:30:40.934] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:elenaidodge2 for mod file /workspaces/serber1/servidor_minecraft/mods/elenaidodge2-1.1.jar
+[18Mar2025 20:30:40.934] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:bendylib for mod file /workspaces/serber1/servidor_minecraft/mods/bendy-lib-forge-4.0.0.jar
+[18Mar2025 20:30:40.934] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:bonfires for mod file /workspaces/serber1/servidor_minecraft/mods/Bonfires-1.20.1-1.2.18-43da133.jar
+[18Mar2025 20:30:40.934] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:xaerominimapfair for mod file /workspaces/serber1/servidor_minecraft/mods/Xaeros_Minimap_FP24.2.0_Forge_1.20.jar
+[18Mar2025 20:30:40.935] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:epicknights_open_helms for mod file /workspaces/serber1/servidor_minecraft/mods/epicknights_open_helms-1.1-forge-1.20.1.jar
+[18Mar2025 20:30:40.935] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:argentinas_delight for mod file /workspaces/serber1/servidor_minecraft/mods/Argentina_s Delight 1.20.1 (ver1.21).jar
+[18Mar2025 20:30:40.935] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:shy_guy for mod file /workspaces/serber1/servidor_minecraft/mods/ShyGuy-forge-1.20.1-2.6.jar
+[18Mar2025 20:30:40.935] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:architectury for mod file /workspaces/serber1/servidor_minecraft/mods/architectury-9.2.14-forge.jar
+[18Mar2025 20:30:40.935] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mca for mod file /workspaces/serber1/servidor_minecraft/mods/minecraft-comes-alive-7.5.21+1.20.1-universal.jar
+[18Mar2025 20:30:40.935] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:doapi for mod file /workspaces/serber1/servidor_minecraft/mods/letsdo-API-forge-1.2.15-forge.jar
+[18Mar2025 20:30:40.935] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:magistuarmory for mod file /workspaces/serber1/servidor_minecraft/mods/[1.20.1-forge]-Epic-Knights-9.21.jar
+[18Mar2025 20:30:40.935] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:antiquelegacy for mod file /workspaces/serber1/servidor_minecraft/mods/[1.20.x-forge]-Epic-Knights-Antique-Legacy-1.8.jar
+[18Mar2025 20:30:40.935] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:magistuarmoryaddon for mod file /workspaces/serber1/servidor_minecraft/mods/[1.20.x-forge]-Epic-Knights-Addon-1.22.jar
+[18Mar2025 20:30:40.935] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:farm_and_charm for mod file /workspaces/serber1/servidor_minecraft/mods/letsdo-farm_and_charm-forge-1.0.4.jar
+[18Mar2025 20:30:40.936] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:appleskin for mod file /workspaces/serber1/servidor_minecraft/mods/appleskin-forge-mc1.20.1-2.5.1.jar
+[18Mar2025 20:30:40.936] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:ferritecore for mod file /workspaces/serber1/servidor_minecraft/mods/ferritecore-6.0.1-forge.jar
+[18Mar2025 20:30:40.936] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:connectedglass for mod file /workspaces/serber1/servidor_minecraft/mods/connectedglass-1.1.12-forge-mc1.20.1.jar
+[18Mar2025 20:30:40.936] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cupboard for mod file /workspaces/serber1/servidor_minecraft/mods/cupboard-1.20.1-2.7.jar
+[18Mar2025 20:30:40.936] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:justzoom for mod file /workspaces/serber1/servidor_minecraft/mods/justzoom_forge_2.0.0_MC_1.20.1.jar
+[18Mar2025 20:30:40.936] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cosmeticarmorreworked for mod file /workspaces/serber1/servidor_minecraft/mods/cosmeticarmorreworked-1.20.1-v1a.jar
+[18Mar2025 20:30:40.936] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:playerrevive for mod file /workspaces/serber1/servidor_minecraft/mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar
+[18Mar2025 20:30:40.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Reloading!]
+[18Mar2025 20:30:40.945] [Server thread/DEBUG] [bookshelf/]: Rebuilding entries for bookshelf. Previous entries 1
+[18Mar2025 20:30:40.945] [Server thread/DEBUG] [bookshelf/]: Built 1 Command entries. Took 0.03ms.
+[18Mar2025 20:30:40.946] [Server thread/DEBUG] [bookshelf/]: Rebuilding entries for bookshelf. Previous entries 0
+[18Mar2025 20:30:40.946] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[18Mar2025 20:30:41.011] [Worker-ResourceReload-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag magistuarmory:darkening_templates as it is missing following references: magistuarmoryaddon:darkening_template (from [1.20.x-forge]-Epic-Knights-Addon-1.22.jar)
+[18Mar2025 20:30:41.014] [Worker-ResourceReload-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag magistuarmory:gilding_templates as it is missing following references: magistuarmoryaddon:gilding_template (from [1.20.x-forge]-Epic-Knights-Addon-1.22.jar)
+[18Mar2025 20:30:41.336] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[18Mar2025 20:30:41.336] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[18Mar2025 20:30:41.337] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[9].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[18Mar2025 20:30:41.337] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[8].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[18Mar2025 20:30:41.337] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[18Mar2025 20:30:41.337] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[7].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[18Mar2025 20:30:41.337] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[18Mar2025 20:30:41.337] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[18Mar2025 20:30:41.341] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe antiquelegacy:mars_of_todi_thorax: com.google.gson.JsonSyntaxException: Unknown item 'antiquelegacy:mars_of_todi_thorax'
+[18Mar2025 20:30:41.344] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe antiquelegacy:furnace/gold_nugget_blasting: com.google.gson.JsonSyntaxException: Unknown item 'antiquelegacy:golden_laurel_wreath'
+[18Mar2025 20:30:41.351] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmoryaddon:darkblued_sallet_from_dark_gothic_helmet_darkening: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[18Mar2025 20:30:41.351] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe recrafted_creatures:creature_catalogue as it's serializer returned null
+[18Mar2025 20:30:41.355] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe antiquelegacy:furnace/bronze_nugget_blasting: com.google.gson.JsonSyntaxException: Unknown item 'antiquelegacy:left_gladiator_shoulder_pad'
+[18Mar2025 20:30:41.355] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmoryaddon:darkblued_armet_from_dark_knight_helmet_darkening: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[18Mar2025 20:30:41.358] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe epicknights_open_helms:glided_dark_clos: com.google.gson.JsonSyntaxException: Unknown item 'epicknights_open_helms:glided_dark_close_helmet'
+[18Mar2025 20:30:41.363] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe antiquelegacy:furnace/iron_nugget_blasting: com.google.gson.JsonSyntaxException: Unknown item 'antiquelegacy:iron_left_hand_manika'
+[18Mar2025 20:30:41.375] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
+[18Mar2025 20:30:41.422] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1845 advancements
+[18Mar2025 20:30:41.426] [Server thread/INFO] [rechiseled/]: Loaded 79 chiseling recipes
+[18Mar2025 20:31:08.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 20:31:08.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 20:31:32.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[18Mar2025 20:31:32.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[18Mar2025 20:31:32.613] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 20:31:32.613] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of PlagaXNZ
+[18Mar2025 20:31:32.613] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
+[18Mar2025 20:31:41.321] [Worker-ResourceReload-0/DEBUG] [ModernFix/]: Worker-ResourceReload-0 shutdown
+[18Mar2025 20:32:03.744] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[18Mar2025 20:32:41.321] [Worker-ResourceReload-1/DEBUG] [ModernFix/]: Worker-ResourceReload-1 shutdown
+[18Mar2025 20:33:41.321] [Worker-ResourceReload-2/DEBUG] [ModernFix/]: Worker-ResourceReload-2 shutdown
+[18Mar2025 20:34:04.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kusting has made the advancement [Recrafted Creatures]
+[18Mar2025 20:35:23.644] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[18Mar2025 20:35:23.644] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[18Mar2025 20:36:08.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 20:36:08.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 20:38:43.844] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[18Mar2025 20:41:08.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 20:41:08.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 20:42:03.794] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[18Mar2025 20:45:23.695] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[18Mar2025 20:45:23.695] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[18Mar2025 20:46:08.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 20:46:08.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
