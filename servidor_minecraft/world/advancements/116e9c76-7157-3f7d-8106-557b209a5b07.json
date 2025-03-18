@@ -417,7 +417,8 @@
       "cooked_mutton": "2025-03-18 04:31:49 +0000",
       "sweet_berries": "2025-03-18 04:10:32 +0000",
       "rotten_flesh": "2025-03-18 04:30:43 +0000",
-      "beetroot": "2025-03-18 04:22:40 +0000"
+      "beetroot": "2025-03-18 04:22:40 +0000",
+      "carrot": "2025-03-18 15:21:46 +0000"
     },
     "done": false
   },
@@ -817,6 +818,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-18 15:07:39 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-03-18 15:13:01 +0000"
@@ -886,12 +893,6 @@
   "farm_and_charm:recipes/supply_cart": {
     "criteria": {
       "has_iron_ingot": "2025-03-18 15:13:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-03-18 15:07:39 +0000"
     },
     "done": true
   },
@@ -1036,6 +1037,84 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-03-18 15:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-18 15:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-18 15:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-03-18 15:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-03-18 15:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-03-18 15:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-03-18 15:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-03-18 15:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-03-18 15:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-03-18 15:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-03-18 15:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-03-18 15:19:41 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/lettuce_bag": {
+    "criteria": {
+      "has_lettuce": "2025-03-18 15:29:37 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/barley_ball": {
+    "criteria": {
+      "has_barley": "2025-03-18 15:33:14 +0000"
     },
     "done": true
   },

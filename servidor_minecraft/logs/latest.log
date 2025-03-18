@@ -989,3 +989,124 @@ java.lang.IllegalStateException: Nesting problem.
 [18Mar2025 15:22:51.481] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
 [18Mar2025 15:22:51.481] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
 [18Mar2025 15:23:20.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ fell from a high place
+[18Mar2025 15:23:37.433] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:23:37.434] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:23:37.434] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:23:37.861] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:23:38.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:23:38.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:23:51.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:23:51.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:23:51.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:23:51.821] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:23:52.821] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:23:52.822] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:24:37.836] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:24:37.836] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:24:37.836] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:24:38.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:24:50.185] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:24:50.185] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:25:11.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=73, z=657} BlockPos{x=372, y=71, z=657}
+[18Mar2025 15:25:11.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=73, z=657} BlockPos{x=372, y=71, z=657}
+[18Mar2025 15:25:39.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=441, y=66, z=697} BlockPos{x=443, y=64, z=697}
+[18Mar2025 15:25:39.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=441, y=66, z=697} BlockPos{x=443, y=64, z=697}
+[18Mar2025 15:25:39.225] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:25:39.225] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:25:39.226] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:25:39.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=441, y=66, z=697} BlockPos{x=443, y=64, z=697}
+[18Mar2025 15:25:39.617] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:25:40.618] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:25:40.619] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:25:40.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=448, y=66, z=701} BlockPos{x=448, y=64, z=702}
+[18Mar2025 15:25:51.295] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:25:51.296] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:25:51.296] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:25:51.629] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:25:52.633] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:25:52.634] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:26:39.560] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:26:39.560] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:26:39.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:26:39.885] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:26:40.889] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:26:40.889] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:26:51.635] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:26:51.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:26:51.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:26:51.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:26:52.917] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:26:52.917] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:27:09.767] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:27:09.768] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:27:09.768] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:27:10.026] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:27:11.030] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:27:11.030] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:27:39.956] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:27:39.956] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:27:39.957] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:27:40.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:27:52.641] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:27:52.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:28:40.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:28:40.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:28:40.328] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:28:40.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:28:50.633] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:28:50.634] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:29:41.640] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:29:41.640] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:29:41.641] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:29:41.922] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:29:42.921] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:29:42.922] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:29:53.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:29:53.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:29:53.702] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:29:54.081] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:30:21.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ was kicked for floating too long!
+[18Mar2025 15:30:21.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Flying is not enabled on this server
+[18Mar2025 15:30:21.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[18Mar2025 15:30:21.783] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:30:21.784] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
+[18Mar2025 15:30:21.858] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Mar2025 15:30:37.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PlagaXNZ[/127.71.30.2:35333] logged in with entity id 6531 at (845.1616301484653, 80.25220334025373, 852.6381876684385)
+[18Mar2025 15:30:37.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ joined the game
+[18Mar2025 15:30:37.184] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:30:37.502] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PlagaXNZ (18)
+[18Mar2025 15:30:37.502] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:30:38.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:30:52.134] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:30:52.134] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:31:42.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:31:42.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:31:42.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:31:42.690] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:31:43.694] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:31:43.695] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:31:54.503] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:31:54.503] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:31:54.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:31:54.850] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:31:55.850] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:31:55.850] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:32:42.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:32:42.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:32:42.763] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:32:43.299] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:32:44.302] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:32:44.303] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:32:49.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ fell from a high place
+[18Mar2025 15:32:54.850] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:32:54.850] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:32:54.851] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:32:55.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:32:56.085] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:32:56.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[18Mar2025 15:33:43.112] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[18Mar2025 15:33:43.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[18Mar2025 15:33:43.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[18Mar2025 15:33:43.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:33:44.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[18Mar2025 15:33:44.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
