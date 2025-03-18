@@ -571,3 +571,55 @@
 [18Mar2025 21:19:03.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso left the game
 [18Mar2025 21:19:03.658] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cdc82f89-27df-3e96-b744-2e7cd481dc97
 [18Mar2025 21:19:03.658] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukonso
+[18Mar2025 21:29:14.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kusting[/127.113.44.68:47935] logged in with entity id 4256 at (-454.5222348201053, 64.0, 1652.6058235141313)
+[18Mar2025 21:29:14.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kusting joined the game
+[18Mar2025 21:29:14.762] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5b081969-20df-3b7a-951b-8fe0f4489799
+[18Mar2025 21:29:19.124] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kusting (18)
+[18Mar2025 21:29:19.124] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kusting
+[18Mar2025 21:29:29.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5b081969-20df-3b7a-951b-8fe0f4489799
+[18Mar2025 21:29:30.283] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5b081969-20df-3b7a-951b-8fe0f4489799
+[18Mar2025 21:29:30.284] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kusting (5b081969-20df-3b7a-951b-8fe0f4489799) successfully connected to voice chat
+[18Mar2025 21:30:38.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Isn't It Iron Pick]
+[18Mar2025 21:30:38.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kusting lost connection: Disconnected
+[18Mar2025 21:30:38.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kusting left the game
+[18Mar2025 21:30:38.860] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5b081969-20df-3b7a-951b-8fe0f4489799
+[18Mar2025 21:30:38.861] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kusting
+[18Mar2025 21:33:24.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukusting[/127.113.44.68:46357] logged in with entity id 4771 at (-0.5, 74.0, 261.5)
+[18Mar2025 21:33:24.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting joined the game
+[18Mar2025 21:33:24.821] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2c865b14-cc57-3462-88a0-56205ddefec7
+[18Mar2025 21:33:28.133] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jukusting (18)
+[18Mar2025 21:33:28.134] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jukusting
+[18Mar2025 21:33:36.138] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2c865b14-cc57-3462-88a0-56205ddefec7
+[18Mar2025 21:33:37.142] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2c865b14-cc57-3462-88a0-56205ddefec7
+[18Mar2025 21:33:37.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jukusting (2c865b14-cc57-3462-88a0-56205ddefec7) successfully connected to voice chat
+[18Mar2025 21:37:11.583] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Javid}[style={}] has been infected
+[18Mar2025 21:37:13.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[18Mar2025 21:37:34.704] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[18Mar2025 21:37:35.019] [Worker-Main-51/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[18Mar2025 21:37:35.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6397ms or 127 ticks behind
+[18Mar2025 21:37:35.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ moved too quickly! -2.850574555282151,-0.0625,-9.784868517087489
+[18Mar2025 21:37:46.838] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[18Mar2025 21:37:46.839] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[18Mar2025 21:37:46.840] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[18Mar2025 21:37:46.840] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[18Mar2025 21:37:46.841] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[18Mar2025 21:37:49.450] [Worker-Main-40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[18Mar2025 21:37:49.482] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[18Mar2025 21:37:50.370] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[18Mar2025 21:37:50.371] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[18Mar2025 21:37:54.780] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[18Mar2025 21:37:55.537] [Worker-Main-51/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[18Mar2025 21:37:57.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[18Mar2025 21:38:02.305] [Worker-Main-40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[18Mar2025 21:38:07.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> -544 -49 -944
+[18Mar2025 21:38:09.348] [Worker-Main-51/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[18Mar2025 21:38:09.349] [Worker-Main-51/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[18Mar2025 21:38:20.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8559ms or 171 ticks behind
+[18Mar2025 21:38:40.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4989ms or 99 ticks behind
+[18Mar2025 21:39:00.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5327ms or 106 ticks behind
+[18Mar2025 21:39:24.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8462ms or 169 ticks behind
+[18Mar2025 21:39:55.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16184ms or 323 ticks behind
+[18Mar2025 21:40:18.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8012ms or 160 ticks behind
+[18Mar2025 21:40:37.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4085ms or 81 ticks behind
+[18Mar2025 21:40:46.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported Jukusting to PlagaXNZ]
+[18Mar2025 21:40:46.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Minecraft Comes Alive]

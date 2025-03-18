@@ -1,0 +1,54 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-18 21:33:24 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-03-18 21:33:24 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2025-03-18 21:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-03-18 21:33:25 +0000"
+    },
+    "done": false
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2025-03-18 21:33:24 +0000",
+      "wild_strawberry": "2025-03-18 21:33:24 +0000",
+      "corn": "2025-03-18 21:33:24 +0000",
+      "onion": "2025-03-18 21:33:24 +0000",
+      "wild_corn": "2025-03-18 21:33:24 +0000",
+      "wild_ribwort": "2025-03-18 21:33:24 +0000",
+      "strawberry": "2025-03-18 21:33:24 +0000",
+      "wild_nettle": "2025-03-18 21:33:24 +0000",
+      "barley": "2025-03-18 21:33:24 +0000",
+      "tomato": "2025-03-18 21:33:24 +0000",
+      "lettuce": "2025-03-18 21:33:24 +0000",
+      "wild_lettuce": "2025-03-18 21:33:24 +0000",
+      "wild_tomatoes": "2025-03-18 21:33:24 +0000",
+      "oat_seeds": "2025-03-18 21:33:24 +0000",
+      "tomato_seeds": "2025-03-18 21:33:24 +0000",
+      "barley_seeds": "2025-03-18 21:33:24 +0000",
+      "strawberry_seeds": "2025-03-18 21:33:24 +0000",
+      "lettuce_seeds": "2025-03-18 21:33:24 +0000",
+      "kernels": "2025-03-18 21:33:24 +0000",
+      "wild_barley": "2025-03-18 21:33:24 +0000",
+      "wild_onion": "2025-03-18 21:33:24 +0000",
+      "wild_oat": "2025-03-18 21:33:24 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
