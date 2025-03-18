@@ -429,6 +429,7 @@
       "cooked_mutton": "2025-03-18 04:31:49 +0000",
       "sweet_berries": "2025-03-18 04:10:32 +0000",
       "cooked_beef": "2025-03-18 15:41:08 +0000",
+      "baked_potato": "2025-03-18 21:54:29 +0000",
       "beef": "2025-03-18 21:44:05 +0000",
       "bread": "2025-03-18 19:32:32 +0000",
       "rotten_flesh": "2025-03-18 04:30:43 +0000",
@@ -1579,6 +1580,12 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/iron_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-03-18 21:53:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-03-18 21:44:22 +0000"
@@ -1609,9 +1616,21 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/copper_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-03-18 21:53:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-18 21:10:46 +0000"
+    },
+    "done": true
+  },
+  "packedup:basic_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-18 21:53:09 +0000"
     },
     "done": true
   },

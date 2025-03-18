@@ -628,3 +628,6 @@
 [18Mar2025 21:45:09.198] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Fuad'/140, l='ServerLevel[world]', x=-426.61, y=65.00, z=1721.22] died, message: 'Fuad was slain by Wolf'
 [18Mar2025 21:45:09.200] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Fuad'/140, l='ServerLevel[world]', x=-426.61, y=65.00, z=1721.22] died: Fuad was slain by Wolf
 [18Mar2025 21:45:45.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Stone Age]
+[18Mar2025 21:51:44.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Acquire Ash]
+[18Mar2025 21:51:44.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Monster Hunter]
+[18Mar2025 21:53:09.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Packing Up!]
