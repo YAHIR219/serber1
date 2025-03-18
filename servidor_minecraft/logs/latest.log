@@ -623,3 +623,8 @@
 [18Mar2025 21:40:37.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4085ms or 81 ticks behind
 [18Mar2025 21:40:46.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported Jukusting to PlagaXNZ]
 [18Mar2025 21:40:46.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Minecraft Comes Alive]
+[18Mar2025 21:41:14.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Suit Up]
+[18Mar2025 21:41:25.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Getting an Upgrade]
+[18Mar2025 21:45:09.198] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Fuad'/140, l='ServerLevel[world]', x=-426.61, y=65.00, z=1721.22] died, message: 'Fuad was slain by Wolf'
+[18Mar2025 21:45:09.200] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Fuad'/140, l='ServerLevel[world]', x=-426.61, y=65.00, z=1721.22] died: Fuad was slain by Wolf
+[18Mar2025 21:45:45.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Stone Age]

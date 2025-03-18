@@ -429,6 +429,7 @@
       "cooked_mutton": "2025-03-18 04:31:49 +0000",
       "sweet_berries": "2025-03-18 04:10:32 +0000",
       "cooked_beef": "2025-03-18 15:41:08 +0000",
+      "beef": "2025-03-18 21:44:05 +0000",
       "bread": "2025-03-18 19:32:32 +0000",
       "rotten_flesh": "2025-03-18 04:30:43 +0000",
       "beetroot": "2025-03-18 04:22:40 +0000",
@@ -1578,6 +1579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-18 21:44:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-03-18 21:09:28 +0000"
@@ -1587,6 +1594,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-03-18 21:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-18 21:38:58 +0000"
     },
     "done": true
   },
@@ -1713,6 +1726,12 @@
   "bonfires:recipes/tools/homeward_bone": {
     "criteria": {
       "has_ender_pearl": "2025-03-18 21:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-18 21:44:22 +0000"
     },
     "done": true
   },
