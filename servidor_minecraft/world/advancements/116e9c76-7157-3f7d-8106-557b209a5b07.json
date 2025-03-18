@@ -144,7 +144,8 @@
       "minecraft:skeleton": "2025-03-18 04:28:53 +0000",
       "minecraft:spider": "2025-03-18 04:18:06 +0000",
       "minecraft:creeper": "2025-03-18 04:17:26 +0000",
-      "minecraft:zombie": "2025-03-18 03:59:25 +0000"
+      "minecraft:zombie": "2025-03-18 03:59:25 +0000",
+      "minecraft:drowned": "2025-03-18 18:51:00 +0000"
     },
     "done": false
   },
@@ -1134,6 +1135,48 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-03-18 15:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-03-18 18:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-03-18 18:59:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-18 18:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-03-18 18:59:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-03-18 18:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-03-18 18:59:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-03-18 18:53:49 +0000"
     },
     "done": true
   },
