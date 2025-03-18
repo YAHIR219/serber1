@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-18 23:03:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_chestplate": "2025-03-18 21:41:14 +0000"
@@ -264,6 +270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-03-18 23:03:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-03-18 22:48:37 +0000"
@@ -309,6 +321,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-03-18 21:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-03-18 23:00:46 +0000"
     },
     "done": true
   },
@@ -399,6 +417,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-18 22:05:04 +0000",
+      "minecraft:ghast": "2025-03-18 22:59:58 +0000",
       "minecraft:spider": "2025-03-18 21:57:18 +0000",
       "minecraft:creeper": "2025-03-18 22:02:21 +0000",
       "minecraft:enderman": "2025-03-18 21:52:10 +0000",
@@ -586,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-03-18 23:05:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-18 22:14:04 +0000"
@@ -679,6 +704,12 @@
   "bonfires:recipes/building_blocks/ash_bone_pile": {
     "criteria": {
       "has_the_recipe": "2025-03-18 21:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-18 23:05:19 +0000"
     },
     "done": true
   },
@@ -811,6 +842,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-18 22:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-03-18 23:03:23 +0000"
     },
     "done": true
   },
@@ -949,6 +986,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-03-18 22:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-03-18 22:59:58 +0000"
     },
     "done": true
   },
@@ -1141,6 +1184,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-18 21:41:44 +0000",
       "baked_potato": "2025-03-18 22:02:45 +0000",
+      "porkchop": "2025-03-18 22:57:41 +0000",
       "bread": "2025-03-18 21:52:42 +0000"
     },
     "done": false
@@ -1205,6 +1249,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-18 23:00:39 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:main/find_wild_crops": {
     "criteria": {
       "oat": "2025-03-18 21:33:24 +0000",
@@ -1235,6 +1285,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-03-18 22:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-18 23:05:19 +0000"
     },
     "done": true
   },
