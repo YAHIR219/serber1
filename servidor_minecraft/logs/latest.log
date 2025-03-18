@@ -666,3 +666,24 @@
 [18Mar2025 19:41:47.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso was slain by Tusklin
 [18Mar2025 19:42:17.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso has made the advancement [Suit Up]
 [18Mar2025 19:43:26.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> encontre aldea con aldeanos vivos
+[18Mar2025 19:45:41.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> -450 1500
+[18Mar2025 19:47:13.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported Jukonso to PlagaXNZ]
+[18Mar2025 19:49:57.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukonso lost connection: Disconnected
+[18Mar2025 19:49:57.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso left the game
+[18Mar2025 19:49:57.972] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cdc82f89-27df-3e96-b744-2e7cd481dc97
+[18Mar2025 19:49:57.973] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukonso
+[18Mar2025 19:52:20.421] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kusting[/127.113.44.68:37835] logged in with entity id 25687 at (-2.5, 100.0, 251.5)
+[18Mar2025 19:52:20.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kusting joined the game
+[18Mar2025 19:52:20.471] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5b081969-20df-3b7a-951b-8fe0f4489799
+[18Mar2025 19:52:23.846] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kusting (18)
+[18Mar2025 19:52:23.847] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kusting
+[18Mar2025 19:52:31.100] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5b081969-20df-3b7a-951b-8fe0f4489799
+[18Mar2025 19:52:32.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5b081969-20df-3b7a-951b-8fe0f4489799
+[18Mar2025 19:52:32.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kusting (5b081969-20df-3b7a-951b-8fe0f4489799) successfully connected to voice chat
+[18Mar2025 19:52:35.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported Kusting to PlagaXNZ]
+[18Mar2025 19:52:54.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kusting has made the advancement [Minecraft Comes Alive]
+[18Mar2025 19:55:44.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported Kusting to PlagaXNZ]
+[18Mar2025 19:56:09.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kusting has made the advancement [Sweet Dreams]
+[18Mar2025 19:57:07.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kusting has made the advancement [Suit Up]
+[18Mar2025 19:57:13.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kusting has made the advancement [Getting an Upgrade]
+[18Mar2025 20:01:04.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kusting has made the advancement [Local Brewery]

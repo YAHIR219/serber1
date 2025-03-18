@@ -170,6 +170,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-18 19:46:36 +0000",
       "sweet_berries": "2025-03-18 04:15:11 +0000",
       "rotten_flesh": "2025-03-18 03:59:05 +0000",
       "beetroot": "2025-03-18 04:06:31 +0000",
@@ -755,9 +756,21 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-03-18 19:42:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-03-18 19:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-18 19:42:17 +0000"
     },
     "done": true
   },
@@ -809,6 +822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-18 19:43:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-03-18 19:23:45 +0000"
@@ -833,6 +852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-18 19:46:51 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/supply_cart": {
     "criteria": {
       "has_iron_ingot": "2025-03-18 19:21:55 +0000"
@@ -848,6 +873,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-18 19:42:56 +0000"
     },
     "done": true
   },
@@ -917,6 +948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-03-18 19:42:56 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2025-03-18 19:21:55 +0000"
@@ -965,6 +1002,12 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/basic_from_chest": {
+    "criteria": {
+      "recipe_condition": "2025-03-18 19:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-03-18 19:21:55 +0000"
@@ -995,6 +1038,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-03-18 19:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-18 19:42:17 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/crafting_bowl": {
     "criteria": {
       "has_iron_ingot": "2025-03-18 19:21:55 +0000"
@@ -1016,6 +1071,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-18 19:43:08 +0000"
     },
     "done": true
   },

@@ -1173,6 +1173,18 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-18 19:41:08 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-03-18 19:41:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-03-18 19:17:39 +0000"
@@ -1265,6 +1277,7 @@
   },
   "recrafted_creatures:unfamiliar_fauna": {
     "criteria": {
+      "owl": "2025-03-18 19:45:11 +0000",
       "mammoth": "2025-03-18 19:31:35 +0000"
     },
     "done": false
@@ -1290,6 +1303,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-18 19:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-18 19:57:28 +0000"
     },
     "done": true
   },
@@ -1341,9 +1360,21 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-03-18 19:41:19 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/corn_bag": {
     "criteria": {
       "has_corn": "2025-03-18 19:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-18 19:57:28 +0000"
     },
     "done": true
   },
