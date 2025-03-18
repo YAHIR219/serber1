@@ -56,6 +56,7 @@
       "minecraft:forest": "2025-03-18 04:11:28 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-18 04:00:34 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-18 04:21:04 +0000",
+      "minecraft:meadow": "2025-03-18 19:04:51 +0000",
       "minecraft:plains": "2025-03-18 04:11:48 +0000"
     },
     "done": false
@@ -554,6 +555,7 @@
   },
   "recrafted_creatures:unfamiliar_fauna": {
     "criteria": {
+      "owl": "2025-03-18 19:09:28 +0000",
       "red_panda": "2025-03-18 04:23:56 +0000"
     },
     "done": false
