@@ -625,3 +625,44 @@
 [18Mar2025 19:08:32.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> No hay qye abusar del tp
 [18Mar2025 19:13:22.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukonso> haceme tp hacia vos
 [18Mar2025 19:14:52.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[18Mar2025 19:15:13.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5660ms or 113 ticks behind
+[18Mar2025 19:15:43.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukonso> e gil
+[18Mar2025 19:15:50.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Eric'/15111, l='ServerLevel[world]', x=-179.21, y=63.00, z=2485.20] died: Eric burned to death
+[18Mar2025 19:16:01.456] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Ludo'/15113, l='ServerLevel[world]', x=-203.52, y=64.00, z=2488.11] died: Ludo burned to death
+[18Mar2025 19:16:39.265] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Flore'/15209, l='ServerLevel[world]', x=-225.33, y=65.00, z=2470.38] died: Flore burned to death
+[18Mar2025 19:16:43.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Minecraft Comes Alive]
+[18Mar2025 19:17:54.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukonso> e gil haceme tp donde estas vos
+[18Mar2025 19:18:02.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported Jukonso to PlagaXNZ]
+[18Mar2025 19:18:03.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso has made the advancement [Minecraft Comes Alive]
+[18Mar2025 19:20:35.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> se escucha?
+[18Mar2025 19:21:55.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso has made the advancement [Acquire Hardware]
+[18Mar2025 19:30:26.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Gamerule playersSleepingPercentage is now set to: 1]
+[18Mar2025 19:31:20.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Take Aim]
+[18Mar2025 19:31:35.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Recrafted Creatures]
+[18Mar2025 19:32:34.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso was shot by Stray
+[18Mar2025 19:36:40.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18Mar2025 19:36:59.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3435ms or 68 ticks behind
+[18Mar2025 19:37:06.202] [Server thread/INFO] [voicechat/]: [voicechat] Sent ping 92bf02ab-5a1e-4d59-a589-3f873d7c3aa8 attempt 1
+[18Mar2025 19:37:06.430] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Received pong 92bf02ab-5a1e-4d59-a589-3f873d7c3aa8
+[18Mar2025 19:37:17.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3134ms or 62 ticks behind
+[18Mar2025 19:37:34.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[18Mar2025 19:37:38.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso has made the advancement [Me eat Meat, Meat good]
+[18Mar2025 19:37:53.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3997ms or 79 ticks behind
+[18Mar2025 19:38:41.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso has made the advancement [I was here, i lived, i..]
+[18Mar2025 19:39:09.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Lambert'/15112, l='ServerLevel[world]', x=-208.50, y=65.00, z=2488.54] died: Lambert was slain by Jukonso
+[18Mar2025 19:39:25.407] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[18Mar2025 19:39:25.407] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[18Mar2025 19:39:33.121] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[18Mar2025 19:39:33.122] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[18Mar2025 19:39:33.122] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[18Mar2025 19:40:30.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso was slain by Tusklin
+[18Mar2025 19:40:38.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[18Mar2025 19:40:46.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Best Friends Forever]
+[18Mar2025 19:41:08.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Not Today, Thank You]
+[18Mar2025 19:41:10.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[18Mar2025 19:41:19.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [World of illusion]
+[18Mar2025 19:41:26.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> encontre aldea
+[18Mar2025 19:41:38.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18Mar2025 19:41:47.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso was slain by Tusklin
+[18Mar2025 19:42:17.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso has made the advancement [Suit Up]
+[18Mar2025 19:43:26.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> encontre aldea con aldeanos vivos

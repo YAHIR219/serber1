@@ -48,10 +48,12 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-03-18 03:50:32 +0000",
       "minecraft:taiga": "2025-03-18 04:05:38 +0000",
+      "minecraft:frozen_river": "2025-03-18 19:35:50 +0000",
       "minecraft:cherry_grove": "2025-03-18 04:16:16 +0000",
       "minecraft:sunflower_plains": "2025-03-18 04:14:23 +0000",
       "minecraft:beach": "2025-03-18 03:59:05 +0000",
       "minecraft:river": "2025-03-18 03:58:45 +0000",
+      "minecraft:snowy_plains": "2025-03-18 19:18:03 +0000",
       "minecraft:dripstone_caves": "2025-03-18 04:31:33 +0000",
       "minecraft:forest": "2025-03-18 04:11:28 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-18 04:00:34 +0000",
@@ -556,7 +558,8 @@
   "recrafted_creatures:unfamiliar_fauna": {
     "criteria": {
       "owl": "2025-03-18 19:09:28 +0000",
-      "red_panda": "2025-03-18 04:23:56 +0000"
+      "red_panda": "2025-03-18 04:23:56 +0000",
+      "mammoth": "2025-03-18 19:35:58 +0000"
     },
     "done": false
   },
@@ -725,6 +728,300 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-18 04:30:27 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-03-18 19:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-03-18 19:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-03-18 19:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-03-18 19:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_iceologer": "2025-03-18 19:38:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-03-18 19:23:45 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/plow": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/supply_cart": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/mincer": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-03-18 19:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-03-18 19:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "recrafted_creatures:mammoth_meat": {
+    "criteria": {
+      "meat": "2025-03-18 19:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/feeding_trough": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/roaster": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/water_sprinkler": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_snowy": "2025-03-18 19:18:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-03-18 19:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/crafting_bowl": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/toolrack": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "rechiseled:recipes/misc/chisel": {
+    "criteria": {
+      "recipe_condition": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-18 19:21:55 +0000"
     },
     "done": true
   },

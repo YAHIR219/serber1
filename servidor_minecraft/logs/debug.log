@@ -3683,3 +3683,91 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Mar2025 19:14:08.311] [Netty Epoll Server IO #4/DEBUG] [emotecraft/]: [emotes server] Received data from: cdc82f89-27df-3e96-b744-2e7cd481dc97 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, length=61, extra={valid=true}}, startingAt=0, player=null}
 [18Mar2025 19:14:17.534] [Netty Epoll Server IO #4/DEBUG] [emotecraft/]: [emotes server] Received data from: cdc82f89-27df-3e96-b744-2e7cd481dc97 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, emoteData=null, startingAt=0, player=null}
 [18Mar2025 19:14:52.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[18Mar2025 19:15:13.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5660ms or 113 ticks behind
+[18Mar2025 19:15:23.295] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[18Mar2025 19:15:23.295] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[18Mar2025 19:15:43.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukonso> e gil
+[18Mar2025 19:15:48.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 19:15:48.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 19:15:50.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Eric'/15111, l='ServerLevel[world]', x=-179.21, y=63.00, z=2485.20] died: Eric burned to death
+[18Mar2025 19:15:56.874] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Jukonso: {disabled=false, disconnected=false, uuid=cdc82f89-27df-3e96-b744-2e7cd481dc97, name=Jukonso, group=cb487e1e-a54c-4e30-84c9-d5a650b07f81}
+[18Mar2025 19:16:01.456] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Ludo'/15113, l='ServerLevel[world]', x=-203.52, y=64.00, z=2488.11] died: Ludo burned to death
+[18Mar2025 19:16:04.479] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Jukonso: {disabled=false, disconnected=false, uuid=cdc82f89-27df-3e96-b744-2e7cd481dc97, name=Jukonso, group=null}
+[18Mar2025 19:16:21.721] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Jukonso: {disabled=false, disconnected=false, uuid=cdc82f89-27df-3e96-b744-2e7cd481dc97, name=Jukonso, group=ff978175-8481-4d7c-b76e-6709108872ee}
+[18Mar2025 19:16:33.590] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Jukonso: {disabled=false, disconnected=false, uuid=cdc82f89-27df-3e96-b744-2e7cd481dc97, name=Jukonso, group=null}
+[18Mar2025 19:16:39.265] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Flore'/15209, l='ServerLevel[world]', x=-225.33, y=65.00, z=2470.38] died: Flore burned to death
+[18Mar2025 19:16:43.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Minecraft Comes Alive]
+[18Mar2025 19:17:54.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukonso> e gil haceme tp donde estas vos
+[18Mar2025 19:18:02.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported Jukonso to PlagaXNZ]
+[18Mar2025 19:18:03.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso has made the advancement [Minecraft Comes Alive]
+[18Mar2025 19:18:43.495] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[18Mar2025 19:19:38.568] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=f6c78103-7787-44b2-9708-0151598f9507}
+[18Mar2025 19:20:11.717] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=true, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=f6c78103-7787-44b2-9708-0151598f9507}
+[18Mar2025 19:20:12.272] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=f6c78103-7787-44b2-9708-0151598f9507}
+[18Mar2025 19:20:35.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> se escucha?
+[18Mar2025 19:20:47.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 19:20:48.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 19:21:17.889] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Jukonso: {disabled=false, disconnected=false, uuid=cdc82f89-27df-3e96-b744-2e7cd481dc97, name=Jukonso, group=f6c78103-7787-44b2-9708-0151598f9507}
+[18Mar2025 19:21:55.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso has made the advancement [Acquire Hardware]
+[18Mar2025 19:22:03.444] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[18Mar2025 19:25:04.817] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[18Mar2025 19:25:23.344] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[18Mar2025 19:25:23.344] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[18Mar2025 19:25:25.746] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: 116e9c76-7157-3f7d-8106-557b209a5b07 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=f9f6669d-f1b3-4170-8bc5-475a9a600439, length=61, extra={valid=true}}, startingAt=0, player=null}
+[18Mar2025 19:25:29.990] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: 116e9c76-7157-3f7d-8106-557b209a5b07 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=f9f6669d-f1b3-4170-8bc5-475a9a600439, emoteData=null, startingAt=0, player=null}
+[18Mar2025 19:25:31.547] [Netty Epoll Server IO #4/DEBUG] [emotecraft/]: [emotes server] Received data from: cdc82f89-27df-3e96-b744-2e7cd481dc97 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=ebfb1e69-330a-4970-8bca-f5625c90681a, length=81, extra={valid=false}}, startingAt=0, player=null}
+[18Mar2025 19:25:32.123] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: 116e9c76-7157-3f7d-8106-557b209a5b07 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, length=61, extra={valid=true}}, startingAt=0, player=null}
+[18Mar2025 19:25:40.615] [Netty Epoll Server IO #4/DEBUG] [emotecraft/]: [emotes server] Received data from: cdc82f89-27df-3e96-b744-2e7cd481dc97 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=f9f6669d-f1b3-4170-8bc5-475a9a600439, length=61, extra={valid=true}}, startingAt=0, player=null}
+[18Mar2025 19:25:45.486] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: 116e9c76-7157-3f7d-8106-557b209a5b07 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, emoteData=null, startingAt=0, player=null}
+[18Mar2025 19:25:47.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 19:25:47.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 19:25:49.219] [Netty Epoll Server IO #4/DEBUG] [emotecraft/]: [emotes server] Received data from: cdc82f89-27df-3e96-b744-2e7cd481dc97 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=a2969c42-520f-4c5c-a024-a7d0a2b7b4d1, length=104, extra={valid=true}}, startingAt=0, player=null}
+[18Mar2025 19:25:58.296] [Netty Epoll Server IO #4/DEBUG] [emotecraft/]: [emotes server] Received data from: cdc82f89-27df-3e96-b744-2e7cd481dc97 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, length=61, extra={valid=true}}, startingAt=0, player=null}
+[18Mar2025 19:27:42.815] [Netty Epoll Server IO #4/DEBUG] [emotecraft/]: [emotes server] Received data from: cdc82f89-27df-3e96-b744-2e7cd481dc97 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, emoteData=null, startingAt=0, player=null}
+[18Mar2025 19:28:43.545] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[18Mar2025 19:29:00.332] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=true, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=f6c78103-7787-44b2-9708-0151598f9507}
+[18Mar2025 19:29:00.769] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=f6c78103-7787-44b2-9708-0151598f9507}
+[18Mar2025 19:30:26.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Gamerule playersSleepingPercentage is now set to: 1]
+[18Mar2025 19:30:47.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 19:30:48.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 19:31:20.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Take Aim]
+[18Mar2025 19:31:35.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Recrafted Creatures]
+[18Mar2025 19:32:03.494] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[18Mar2025 19:32:34.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso was shot by Stray
+[18Mar2025 19:35:23.345] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[18Mar2025 19:35:23.345] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[18Mar2025 19:35:48.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 19:35:48.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 19:36:40.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18Mar2025 19:36:59.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3435ms or 68 ticks behind
+[18Mar2025 19:37:06.202] [Server thread/INFO] [voicechat/]: [voicechat] Sent ping 92bf02ab-5a1e-4d59-a589-3f873d7c3aa8 attempt 1
+[18Mar2025 19:37:06.430] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Received pong 92bf02ab-5a1e-4d59-a589-3f873d7c3aa8
+[18Mar2025 19:37:17.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3134ms or 62 ticks behind
+[18Mar2025 19:37:34.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[18Mar2025 19:37:38.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso has made the advancement [Me eat Meat, Meat good]
+[18Mar2025 19:37:53.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3997ms or 79 ticks behind
+[18Mar2025 19:38:41.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso has made the advancement [I was here, i lived, i..]
+[18Mar2025 19:38:43.554] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[18Mar2025 19:39:09.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Lambert'/15112, l='ServerLevel[world]', x=-208.50, y=65.00, z=2488.54] died: Lambert was slain by Jukonso
+[18Mar2025 19:39:25.407] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[18Mar2025 19:39:25.407] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[18Mar2025 19:39:33.121] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[18Mar2025 19:39:33.122] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[18Mar2025 19:39:33.122] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[18Mar2025 19:39:33.124] [Worker-Main-11/DEBUG] [mixin/]: Mixing VillagerTaskListProviderMixin from friendsandfoes-common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[18Mar2025 19:40:30.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso was slain by Tusklin
+[18Mar2025 19:40:38.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[18Mar2025 19:40:46.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Best Friends Forever]
+[18Mar2025 19:41:05.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 19:41:05.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 19:41:08.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Not Today, Thank You]
+[18Mar2025 19:41:10.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[18Mar2025 19:41:19.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [World of illusion]
+[18Mar2025 19:41:26.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> encontre aldea
+[18Mar2025 19:41:38.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18Mar2025 19:41:47.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso was slain by Tusklin
+[18Mar2025 19:42:03.495] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[18Mar2025 19:42:17.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukonso has made the advancement [Suit Up]
+[18Mar2025 19:43:26.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> encontre aldea con aldeanos vivos
+[18Mar2025 19:45:23.395] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[18Mar2025 19:45:23.395] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
