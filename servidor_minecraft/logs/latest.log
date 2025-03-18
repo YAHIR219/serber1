@@ -631,3 +631,6 @@
 [18Mar2025 21:51:44.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Acquire Ash]
 [18Mar2025 21:51:44.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Monster Hunter]
 [18Mar2025 21:53:09.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Packing Up!]
+[18Mar2025 22:10:38.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18Mar2025 22:10:57.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[18Mar2025 22:11:18.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6177ms or 123 ticks behind
