@@ -5145,3 +5145,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Mar2025 23:07:53.889] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [18Mar2025 23:11:13.739] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [18Mar2025 23:11:13.739] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[18Mar2025 23:12:39.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 23:12:39.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 23:14:34.089] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[18Mar2025 23:17:20.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Sweet Dreams]
+[18Mar2025 23:17:39.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 23:17:39.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 23:17:53.938] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[18Mar2025 23:19:40.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kenan'/32633, l='ServerLevel[world]', x=-455.51, y=63.94, z=1611.48] died, message: 'Kenan was slain by Jukusting'
+[18Mar2025 23:19:40.207] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kenan'/32633, l='ServerLevel[world]', x=-455.51, y=63.94, z=1611.48] died: Kenan was slain by Jukusting
+[18Mar2025 23:20:33.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> 80 1088
+[18Mar2025 23:21:04.300] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Fakhraddin'/32634, l='ServerLevel[world]', x=-456.43, y=64.00, z=1702.70] died, message: 'Fakhraddin was slain by Jukusting'
+[18Mar2025 23:21:04.301] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Fakhraddin'/32634, l='ServerLevel[world]', x=-456.43, y=64.00, z=1702.70] died: Fakhraddin was slain by Jukusting
+[18Mar2025 23:21:13.740] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[18Mar2025 23:21:13.740] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[18Mar2025 23:22:06.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Friendship Found]

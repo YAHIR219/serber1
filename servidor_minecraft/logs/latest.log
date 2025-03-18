@@ -1260,3 +1260,10 @@
 [18Mar2025 23:04:13.692] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
 [18Mar2025 23:04:19.392] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
 [18Mar2025 23:04:57.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Suit Up]
+[18Mar2025 23:17:20.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Sweet Dreams]
+[18Mar2025 23:19:40.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kenan'/32633, l='ServerLevel[world]', x=-455.51, y=63.94, z=1611.48] died, message: 'Kenan was slain by Jukusting'
+[18Mar2025 23:19:40.207] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kenan'/32633, l='ServerLevel[world]', x=-455.51, y=63.94, z=1611.48] died: Kenan was slain by Jukusting
+[18Mar2025 23:20:33.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> 80 1088
+[18Mar2025 23:21:04.300] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Fakhraddin'/32634, l='ServerLevel[world]', x=-456.43, y=64.00, z=1702.70] died, message: 'Fakhraddin was slain by Jukusting'
+[18Mar2025 23:21:04.301] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Fakhraddin'/32634, l='ServerLevel[world]', x=-456.43, y=64.00, z=1702.70] died: Fakhraddin was slain by Jukusting
+[18Mar2025 23:22:06.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Friendship Found]
