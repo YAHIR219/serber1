@@ -640,3 +640,19 @@
 [18Mar2025 22:19:43.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Take Aim]
 [18Mar2025 22:21:34.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> -423 2054
 [18Mar2025 22:22:15.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Not Today, Thank You]
+[18Mar2025 22:35:44.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [We Need to Go Deeper]
+[18Mar2025 22:35:44.461] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/21812, l='ServerLevel[world]', x=-73.00, y=31.00, z=295.00] as it would cause deadlock
+[18Mar2025 22:35:47.065] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/21872, l='ServerLevel[world]', x=-111.10, y=31.00, z=186.00] as it would cause deadlock
+[18Mar2025 22:35:48.004] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:48.505] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:48.661] [Worker-Main-51/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/21986, l='ServerLevel[world]', x=17.00, y=31.00, z=168.00] as it would cause deadlock
+[18Mar2025 22:35:48.905] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:49.052] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:49.353] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:49.651] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:50.003] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:50.503] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:50.551] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:50.959] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:53.024] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/22259, l='ServerLevel[world]', x=-91.00, y=31.00, z=123.00] as it would cause deadlock
+[18Mar2025 22:41:36.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Acquire Hardware]

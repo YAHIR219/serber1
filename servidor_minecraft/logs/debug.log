@@ -4493,3 +4493,27 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Mar2025 22:27:53.738] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [18Mar2025 22:31:13.589] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [18Mar2025 22:31:13.589] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[18Mar2025 22:32:39.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 22:32:39.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 22:34:33.990] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[18Mar2025 22:35:44.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [We Need to Go Deeper]
+[18Mar2025 22:35:44.461] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/21812, l='ServerLevel[world]', x=-73.00, y=31.00, z=295.00] as it would cause deadlock
+[18Mar2025 22:35:47.065] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/21872, l='ServerLevel[world]', x=-111.10, y=31.00, z=186.00] as it would cause deadlock
+[18Mar2025 22:35:48.004] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:48.505] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:48.661] [Worker-Main-51/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/21986, l='ServerLevel[world]', x=17.00, y=31.00, z=168.00] as it would cause deadlock
+[18Mar2025 22:35:48.905] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:49.052] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:49.353] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:49.651] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:50.003] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:50.503] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:50.551] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:50.959] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[18Mar2025 22:35:53.024] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/22259, l='ServerLevel[world]', x=-91.00, y=31.00, z=123.00] as it would cause deadlock
+[18Mar2025 22:37:39.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 22:37:39.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 22:37:53.740] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[18Mar2025 22:41:13.640] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[18Mar2025 22:41:13.640] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[18Mar2025 22:41:36.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Acquire Hardware]
