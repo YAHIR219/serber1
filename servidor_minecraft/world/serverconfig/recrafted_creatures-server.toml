@@ -1,0 +1,3 @@
+#Only load the structures from the modids in this list. Load all if list is empty.
+beaver_structure_whitelist = []
+
