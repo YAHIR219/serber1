@@ -6123,3 +6123,29 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Mar2025 02:01:53.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [19Mar2025 02:02:13.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5352ms or 107 ticks behind
 [19Mar2025 02:04:28.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Hot Stuff]
+[19Mar2025 02:04:34.746] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[19Mar2025 02:04:50.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Mar2025 02:04:50.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Mar2025 02:04:52.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Ice Bucket Challenge]
+[19Mar2025 02:07:54.539] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[19Mar2025 02:09:50.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Mar2025 02:09:50.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Mar2025 02:10:44.551] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/98738, l='ServerLevel[world]', x=427.50, y=36.00, z=609.50]
+[19Mar2025 02:10:44.552] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/98739, l='ServerLevel[world]', x=428.50, y=36.00, z=609.50]
+[19Mar2025 02:10:44.552] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/98740, l='ServerLevel[world]', x=426.50, y=37.00, z=610.50]
+[19Mar2025 02:10:44.552] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/98741, l='ServerLevel[world]', x=425.50, y=39.00, z=611.50]
+[19Mar2025 02:11:14.389] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[19Mar2025 02:11:14.389] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[19Mar2025 02:14:34.788] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[19Mar2025 02:14:50.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Mar2025 02:14:50.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Mar2025 02:15:49.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [The Parrots and the Bats]
+[19Mar2025 02:17:54.591] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[19Mar2025 02:19:50.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Mar2025 02:19:50.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Mar2025 02:20:23.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19Mar2025 02:20:42.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4135ms or 82 ticks behind
+[19Mar2025 02:21:14.415] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[19Mar2025 02:21:14.415] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[19Mar2025 02:24:27.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported Jukusting to PlagaXNZ]
+[19Mar2025 02:24:34.838] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
