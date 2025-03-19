@@ -1998,5 +1998,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-19 02:49:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
