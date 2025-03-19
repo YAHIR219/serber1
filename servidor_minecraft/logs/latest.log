@@ -126,3 +126,47 @@
 [19Mar2025 02:20:23.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [19Mar2025 02:20:42.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4135ms or 82 ticks behind
 [19Mar2025 02:24:27.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported Jukusting to PlagaXNZ]
+[19Mar2025 02:28:44.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Those Were the Days]
+[19Mar2025 02:28:45.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:28:45.399] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:28:46.088] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:28:46.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:28:46.520] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:28:46.733] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:29:34.613] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:29:36.310] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:29:52.116] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:29:57.503] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2c865b14-cc57-3462-88a0-56205ddefec7 timed out
+[19Mar2025 02:29:57.503] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Jukusting
+[19Mar2025 02:29:57.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Jukusting
+[19Mar2025 02:29:58.094] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2c865b14-cc57-3462-88a0-56205ddefec7
+[19Mar2025 02:29:59.094] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2c865b14-cc57-3462-88a0-56205ddefec7
+[19Mar2025 02:29:59.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jukusting (2c865b14-cc57-3462-88a0-56205ddefec7) successfully connected to voice chat
+[19Mar2025 02:30:09.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> 507 283 fortaleza
+[19Mar2025 02:31:55.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Enchanter]
+[19Mar2025 02:32:55.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Enchanter]
+[19Mar2025 02:33:08.865] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:33:09.015] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:33:09.213] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:33:09.419] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:33:51.412] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:33:51.965] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:33:51.965] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:34:16.759] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:34:28.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukusting lost connection: Disconnected
+[19Mar2025 02:34:28.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting left the game
+[19Mar2025 02:34:28.167] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2c865b14-cc57-3462-88a0-56205ddefec7
+[19Mar2025 02:34:28.167] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukusting
+[19Mar2025 02:34:28.790] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:34:38.047] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:34:39.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukusting[/127.113.44.68:52191] logged in with entity id 107424 at (20.326591095068274, 69.0, 952.0135319063506)
+[19Mar2025 02:34:39.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting joined the game
+[19Mar2025 02:34:39.969] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2c865b14-cc57-3462-88a0-56205ddefec7
+[19Mar2025 02:34:40.773] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jukusting (18)
+[19Mar2025 02:34:40.774] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jukusting
+[19Mar2025 02:34:42.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2c865b14-cc57-3462-88a0-56205ddefec7
+[19Mar2025 02:34:43.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2c865b14-cc57-3462-88a0-56205ddefec7
+[19Mar2025 02:34:43.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jukusting (2c865b14-cc57-3462-88a0-56205ddefec7) successfully connected to voice chat
+[19Mar2025 02:34:55.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Those Were the Days]
+[19Mar2025 02:34:59.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[19Mar2025 02:34:59.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
