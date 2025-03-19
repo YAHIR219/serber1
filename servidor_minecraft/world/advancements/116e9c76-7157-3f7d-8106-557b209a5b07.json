@@ -2997,15 +2997,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-19 04:16:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-03-19 04:00:47 +0000"
     },
     "done": true
   },
+  "bonfires:recipes/misc/titanite_shard": {
+    "criteria": {
+      "has_obsidian": "2025-03-19 04:14:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-03-19 04:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-19 04:16:14 +0000"
     },
     "done": true
   },
@@ -3018,6 +3036,36 @@
   "bonfires:bonfires/estus_shard": {
     "criteria": {
       "estus_shard": "2025-03-19 04:00:56 +0000"
+    },
+    "done": true
+  },
+  "bonfires:recipes/combat/coiled_sword": {
+    "criteria": {
+      "has_ash_bone_pile": "2025-03-19 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-19 04:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-19 04:16:14 +0000"
+    },
+    "done": true
+  },
+  "bonfires:bonfires/ash_bone_pile": {
+    "criteria": {
+      "ash_bone_pile": "2025-03-19 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-19 04:14:53 +0000"
     },
     "done": true
   },
