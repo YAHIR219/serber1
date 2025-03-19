@@ -1117,3 +1117,35 @@
 [19Mar2025 05:44:36.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting left the game
 [19Mar2025 05:44:36.143] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2c865b14-cc57-3462-88a0-56205ddefec7
 [19Mar2025 05:44:36.143] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukusting
+[19Mar2025 05:52:05.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[19Mar2025 05:52:05.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[19Mar2025 05:52:05.642] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[19Mar2025 05:52:05.642] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
+[19Mar2025 05:52:11.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PlagaXNZ[/127.71.30.2:33149] logged in with entity id 41035 at (19.567511296598, 70.0, 928.4539260957108)
+[19Mar2025 05:52:11.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ joined the game
+[19Mar2025 05:52:11.160] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[19Mar2025 05:52:11.479] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PlagaXNZ (18)
+[19Mar2025 05:52:11.479] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[19Mar2025 05:52:12.322] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[19Mar2025 05:52:13.326] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[19Mar2025 05:52:13.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[19Mar2025 05:55:39.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [What a Deal!]
+[19Mar2025 05:59:22.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[19Mar2025 05:59:22.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[19Mar2025 05:59:22.042] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[19Mar2025 05:59:22.042] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
+[19Mar2025 05:59:35.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[19Mar2025 05:59:35.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: stop server<--[HERE]
+[19Mar2025 05:59:49.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19Mar2025 05:59:49.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Mar2025 05:59:49.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Mar2025 05:59:49.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Mar2025 05:59:49.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Mar2025 05:59:49.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Mar2025 05:59:49.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Mar2025 05:59:49.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Mar2025 05:59:49.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Mar2025 05:59:49.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Mar2025 05:59:49.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19Mar2025 05:59:49.837] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[19Mar2025 05:59:49.837] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
