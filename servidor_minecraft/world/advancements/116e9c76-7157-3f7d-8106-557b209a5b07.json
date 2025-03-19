@@ -3101,6 +3101,12 @@
     },
     "done": true
   },
+  "mca:adventure/scythe_revive": {
+    "criteria": {
+      "iron": "2025-03-19 05:37:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-03-19 04:16:14 +0000"
@@ -3140,6 +3146,12 @@
   "bonfires:recipes/combat/coiled_sword": {
     "criteria": {
       "has_ash_bone_pile": "2025-03-19 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/scythe_kill": {
+    "criteria": {
+      "iron": "2025-03-19 05:34:40 +0000"
     },
     "done": true
   },
