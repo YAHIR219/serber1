@@ -2913,9 +2913,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "blaze_rod": "2025-03-19 03:09:30 +0000"
+      "fortress": "2025-03-19 03:05:48 +0000"
     },
     "done": true
   },
@@ -2961,12 +2961,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-03-19 03:09:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-19 03:08:26 +0000"
@@ -2979,9 +2973,15 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "fortress": "2025-03-19 03:05:48 +0000"
+      "blaze_rod": "2025-03-19 03:09:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-19 03:09:30 +0000"
     },
     "done": true
   },
