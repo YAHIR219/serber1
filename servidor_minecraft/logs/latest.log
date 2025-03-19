@@ -14,3 +14,18 @@
 [19Mar2025 00:10:41.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Friendship Found]
 [19Mar2025 00:18:42.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Isn't It Iron Pick]
 [19Mar2025 00:20:26.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Recrafted Creatures]
+[19Mar2025 00:52:47.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> Si tenes acero
+[19Mar2025 00:53:00.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> si cuanto necesitas??
+[19Mar2025 00:56:10.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [A Seedy Place]
+[19Mar2025 00:56:52.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[19Mar2025 00:56:52.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[19Mar2025 00:56:52.115] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[19Mar2025 00:56:52.116] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
+[19Mar2025 00:57:02.069] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PlagaXNZ[/127.71.30.2:41693] logged in with entity id 73984 at (56.45258785218948, 67.0, 1080.3786792009116)
+[19Mar2025 00:57:02.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ joined the game
+[19Mar2025 00:57:02.112] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[19Mar2025 00:57:02.427] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PlagaXNZ (18)
+[19Mar2025 00:57:02.427] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[19Mar2025 00:57:03.419] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[19Mar2025 00:57:04.419] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[19Mar2025 00:57:04.419] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
