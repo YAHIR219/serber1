@@ -4598,3 +4598,34 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Mar2025 05:37:58.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Mar2025 05:37:58.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Mar2025 05:38:01.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> regalando
+[19Mar2025 05:39:32.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> se le podra cambiar el nombre?
+[19Mar2025 05:39:39.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> con un nametag?
+[19Mar2025 05:39:47.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> creo q no
+[19Mar2025 05:41:04.383] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[19Mar2025 05:41:31.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> cuando se destransforma?
+[19Mar2025 05:42:13.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> desaparecio tu wacha gil
+[19Mar2025 05:42:20.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> esta aca
+[19Mar2025 05:42:58.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Mar2025 05:42:58.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Mar2025 05:43:01.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> la piel ya qyeda asi entonces?
+[19Mar2025 05:43:10.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> creo q si
+[19Mar2025 05:43:21.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> ya le propusiste matrimonio
+[19Mar2025 05:43:23.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> creo que...
+[19Mar2025 05:43:34.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> ya es momento de continuar con mi lore
+[19Mar2025 05:43:38.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> ...
+[19Mar2025 05:43:55.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> bueno gil
+[19Mar2025 05:44:06.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> yo ya cumpli con lo mio
+[19Mar2025 05:44:10.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> asi que compañero de aventuras
+[19Mar2025 05:44:17.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> un placer conocerte
+[19Mar2025 05:44:24.232] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[19Mar2025 05:44:29.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> yo tambien pa
+[19Mar2025 05:44:32.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> chau
+[19Mar2025 05:44:36.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukusting lost connection: Disconnected
+[19Mar2025 05:44:36.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting left the game
+[19Mar2025 05:44:36.143] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2c865b14-cc57-3462-88a0-56205ddefec7
+[19Mar2025 05:44:36.143] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Jukusting
+[19Mar2025 05:44:36.143] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukusting
+[19Mar2025 05:47:44.282] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[19Mar2025 05:47:44.282] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[19Mar2025 05:47:58.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Mar2025 05:47:58.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
