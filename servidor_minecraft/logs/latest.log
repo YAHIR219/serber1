@@ -77,3 +77,16 @@
 [19Mar2025 01:32:17.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7683ms or 153 ticks behind
 [19Mar2025 01:32:38.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6420ms or 128 ticks behind
 [19Mar2025 01:33:00.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6378ms or 127 ticks behind
+[19Mar2025 01:45:57.715] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 116e9c76-7157-3f7d-8106-557b209a5b07 timed out
+[19Mar2025 01:45:57.715] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PlagaXNZ
+[19Mar2025 01:45:57.716] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[19Mar2025 01:45:58.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[19Mar2025 01:45:59.230] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[19Mar2025 01:45:59.231] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[19Mar2025 01:48:35.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19Mar2025 01:49:24.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[19Mar2025 01:49:44.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4649ms or 92 ticks behind
+[19Mar2025 01:50:03.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4584ms or 91 ticks behind
+[19Mar2025 01:52:17.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Diamonds!]
+[19Mar2025 01:53:59.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19Mar2025 01:54:17.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
