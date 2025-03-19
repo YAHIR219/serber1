@@ -90,3 +90,30 @@
 [19Mar2025 01:52:17.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Diamonds!]
 [19Mar2025 01:53:59.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [19Mar2025 01:54:17.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
+[19Mar2025 01:55:15.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19Mar2025 01:55:35.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4328ms or 86 ticks behind
+[19Mar2025 01:55:52.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2868ms or 57 ticks behind
+[19Mar2025 01:56:19.815] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gert'/86365, l='ServerLevel[world]', x=26.90, y=70.36, z=936.56] died, message: 'Gert was blown up by Creeper'
+[19Mar2025 01:56:19.816] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Gert'/86365, l='ServerLevel[world]', x=26.90, y=70.36, z=936.56] died: Gert was blown up by Creeper
+[19Mar2025 01:57:03.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19Mar2025 01:59:23.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19Mar2025 01:59:48.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9937ms or 198 ticks behind
+[19Mar2025 02:00:14.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10802ms or 216 ticks behind
+[19Mar2025 02:00:45.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16016ms or 320 ticks behind
+[19Mar2025 02:01:04.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukusting lost connection: Disconnected
+[19Mar2025 02:01:04.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting left the game
+[19Mar2025 02:01:04.753] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2c865b14-cc57-3462-88a0-56205ddefec7
+[19Mar2025 02:01:04.753] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukusting
+[19Mar2025 02:01:08.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8350ms or 167 ticks behind
+[19Mar2025 02:01:11.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukusting[/127.113.44.68:48737] logged in with entity id 93663 at (390.4576017441431, -13.0, 540.4576128515426)
+[19Mar2025 02:01:11.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting joined the game
+[19Mar2025 02:01:11.787] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2c865b14-cc57-3462-88a0-56205ddefec7
+[19Mar2025 02:01:12.677] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jukusting (18)
+[19Mar2025 02:01:12.678] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jukusting
+[19Mar2025 02:01:14.674] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2c865b14-cc57-3462-88a0-56205ddefec7
+[19Mar2025 02:01:15.674] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2c865b14-cc57-3462-88a0-56205ddefec7
+[19Mar2025 02:01:15.674] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jukusting (2c865b14-cc57-3462-88a0-56205ddefec7) successfully connected to voice chat
+[19Mar2025 02:01:27.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4202ms or 84 ticks behind
+[19Mar2025 02:01:53.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19Mar2025 02:02:13.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5352ms or 107 ticks behind
+[19Mar2025 02:04:28.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Hot Stuff]
