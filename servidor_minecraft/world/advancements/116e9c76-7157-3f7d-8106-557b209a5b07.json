@@ -1381,6 +1381,7 @@
   "recrafted_creatures:unfamiliar_fauna": {
     "criteria": {
       "owl": "2025-03-18 19:45:11 +0000",
+      "beaver": "2025-03-19 00:20:44 +0000",
       "mammoth": "2025-03-18 19:31:35 +0000"
     },
     "done": false

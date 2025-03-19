@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-19 00:18:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-03-18 22:41:36 +0000"
@@ -629,6 +635,12 @@
     },
     "done": true
   },
+  "recrafted_creatures:unfamiliar_fauna": {
+    "criteria": {
+      "beaver": "2025-03-19 00:20:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-18 22:14:04 +0000"
@@ -818,6 +830,12 @@
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-03-18 22:41:36 +0000"
+    },
+    "done": true
+  },
+  "recrafted_creatures:root": {
+    "criteria": {
+      "requirement": "2025-03-19 00:20:26 +0000"
     },
     "done": true
   },
