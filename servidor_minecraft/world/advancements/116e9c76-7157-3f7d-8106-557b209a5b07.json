@@ -150,6 +150,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-19 01:06:52 +0000",
       "minecraft:skeleton": "2025-03-18 04:28:53 +0000",
       "minecraft:hoglin": "2025-03-18 22:51:44 +0000",
       "minecraft:spider": "2025-03-18 04:18:06 +0000",
@@ -2440,6 +2441,42 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "pumpkin_stem": "2025-03-19 00:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-19 01:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-19 01:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-03-19 01:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-03-19 01:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-19 01:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-19 01:15:17 +0000"
     },
     "done": true
   },

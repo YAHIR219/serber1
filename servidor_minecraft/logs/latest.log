@@ -29,3 +29,51 @@
 [19Mar2025 00:57:03.419] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
 [19Mar2025 00:57:04.419] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
 [19Mar2025 00:57:04.419] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[19Mar2025 01:05:32.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has completed the challenge [Hunted]
+[19Mar2025 01:05:45.307] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Heidi'/67685, l='ServerLevel[world]', x=33.70, y=68.77, z=972.42] died, message: 'Heidi was slain by Vindicator'
+[19Mar2025 01:05:45.308] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Heidi'/67685, l='ServerLevel[world]', x=33.70, y=68.77, z=972.42] died: Heidi was slain by Vindicator
+[19Mar2025 01:05:57.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> pana ayudame
+[19Mar2025 01:06:38.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting was slain by Vindicator
+[19Mar2025 01:07:17.295] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Natalia'/57057, l='ServerLevel[world]', x=27.13, y=68.00, z=966.60] died, message: 'Natalia was slain by Vindicator'
+[19Mar2025 01:07:17.296] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Natalia'/57057, l='ServerLevel[world]', x=27.13, y=68.00, z=966.60] died: Natalia was slain by Vindicator
+[19Mar2025 01:07:29.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ was shot by Skeleton
+[19Mar2025 01:07:41.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported PlagaXNZ to Jukusting]
+[19Mar2025 01:08:48.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ was slain by Zombie
+[19Mar2025 01:11:25.023] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gunveig'/53702, l='ServerLevel[world]', x=58.72, y=71.94, z=1027.04] died, message: 'Gunveig was slain by Jukusting'
+[19Mar2025 01:11:25.023] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Gunveig'/53702, l='ServerLevel[world]', x=58.72, y=71.94, z=1027.04] died: Gunveig was slain by Jukusting
+[19Mar2025 01:11:44.820] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Arve'/53934, l='ServerLevel[world]', x=95.17, y=78.00, z=1043.85] died, message: 'Arve was slain by Jukusting'
+[19Mar2025 01:11:44.821] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Arve'/53934, l='ServerLevel[world]', x=95.17, y=78.00, z=1043.85] died: Arve was slain by Jukusting
+[19Mar2025 01:12:00.564] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bergljot'/53933, l='ServerLevel[world]', x=94.66, y=77.00, z=1053.58] died, message: 'Bergljot was slain by Jukusting'
+[19Mar2025 01:12:00.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Bergljot'/53933, l='ServerLevel[world]', x=94.66, y=77.00, z=1053.58] died: Bergljot was slain by Jukusting
+[19Mar2025 01:12:19.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Helga'/53695, l='ServerLevel[world]', x=99.78, y=75.00, z=1092.35] died, message: 'Helga was slain by Jukusting'
+[19Mar2025 01:12:19.362] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Helga'/53695, l='ServerLevel[world]', x=99.78, y=75.00, z=1092.35] died: Helga was slain by Jukusting
+[19Mar2025 01:12:56.718] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Herborg'/53697, l='ServerLevel[world]', x=50.64, y=66.36, z=1083.28] died, message: 'Herborg was slain by Jukusting'
+[19Mar2025 01:12:56.719] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Herborg'/53697, l='ServerLevel[world]', x=50.64, y=66.36, z=1083.28] died: Herborg was slain by Jukusting
+[19Mar2025 01:13:06.175] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Normann'/70192, l='ServerLevel[world]', x=50.30, y=66.00, z=1083.45] died, message: 'Normann was slain by Jukusting'
+[19Mar2025 01:13:06.175] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Normann'/70192, l='ServerLevel[world]', x=50.30, y=66.00, z=1083.45] died: Normann was slain by Jukusting
+[19Mar2025 01:23:39.203] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Doris'/70263, l='ServerLevel[world]', x=66.91, y=70.00, z=988.08] died, message: 'Doris was slain by Jukusting'
+[19Mar2025 01:23:39.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Doris'/70263, l='ServerLevel[world]', x=66.91, y=70.00, z=988.08] died: Doris was slain by Jukusting
+[19Mar2025 01:28:14.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[19Mar2025 01:28:52.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[19Mar2025 01:29:10.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2653ms or 53 ticks behind
+[19Mar2025 01:29:36.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ was slain by Shy Guy
+[19Mar2025 01:30:15.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ was slain by Shy Guy
+[19Mar2025 01:30:50.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting was slain by Shy Guy
+[19Mar2025 01:30:50.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has completed the challenge [This is Bonfires]
+[19Mar2025 01:31:35.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[19Mar2025 01:31:48.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukusting lost connection: Disconnected
+[19Mar2025 01:31:48.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting left the game
+[19Mar2025 01:31:48.173] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2c865b14-cc57-3462-88a0-56205ddefec7
+[19Mar2025 01:31:48.173] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukusting
+[19Mar2025 01:31:54.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4552ms or 91 ticks behind
+[19Mar2025 01:31:55.466] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukusting[/127.113.44.68:53445] logged in with entity id 82783 at (20.963823335616794, 70.0, 929.8296671461123)
+[19Mar2025 01:31:55.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting joined the game
+[19Mar2025 01:31:55.505] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2c865b14-cc57-3462-88a0-56205ddefec7
+[19Mar2025 01:31:56.661] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jukusting (18)
+[19Mar2025 01:31:56.661] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jukusting
+[19Mar2025 01:31:59.313] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2c865b14-cc57-3462-88a0-56205ddefec7
+[19Mar2025 01:32:00.337] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2c865b14-cc57-3462-88a0-56205ddefec7
+[19Mar2025 01:32:00.337] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jukusting (2c865b14-cc57-3462-88a0-56205ddefec7) successfully connected to voice chat
+[19Mar2025 01:32:17.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7683ms or 153 ticks behind
+[19Mar2025 01:32:38.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6420ms or 128 ticks behind
+[19Mar2025 01:33:00.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6378ms or 127 ticks behind
