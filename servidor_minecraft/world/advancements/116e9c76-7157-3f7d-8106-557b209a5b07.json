@@ -2991,5 +2991,41 @@
     },
     "done": true
   },
+  "bonfires:bonfires/homeward_bone": {
+    "criteria": {
+      "homeward_bone": "2025-03-19 03:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-19 04:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-19 04:00:47 +0000"
+    },
+    "done": true
+  },
+  "bonfires:bonfires/estus_flask": {
+    "criteria": {
+      "estus_flask": "2025-03-19 04:01:21 +0000"
+    },
+    "done": true
+  },
+  "bonfires:bonfires/estus_shard": {
+    "criteria": {
+      "estus_shard": "2025-03-19 04:00:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/blood_sprayer": {
+    "criteria": {
+      "blood_sprayer": "2025-03-19 03:54:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
