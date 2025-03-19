@@ -159,7 +159,8 @@
       "cooked_beef": "2025-03-19 00:11:53 +0000",
       "baked_potato": "2025-03-18 22:02:45 +0000",
       "porkchop": "2025-03-18 22:57:41 +0000",
-      "bread": "2025-03-18 21:52:42 +0000"
+      "bread": "2025-03-18 21:52:42 +0000",
+      "golden_apple": "2025-03-19 03:38:05 +0000"
     },
     "done": false
   },
@@ -451,11 +452,13 @@
       "minecraft:blaze": "2025-03-19 03:07:05 +0000",
       "minecraft:skeleton": "2025-03-18 22:05:04 +0000",
       "minecraft:ghast": "2025-03-18 22:59:58 +0000",
+      "minecraft:hoglin": "2025-03-19 03:38:18 +0000",
       "minecraft:vindicator": "2025-03-19 01:05:47 +0000",
       "minecraft:magma_cube": "2025-03-19 03:01:54 +0000",
       "minecraft:spider": "2025-03-18 21:57:18 +0000",
       "minecraft:piglin_brute": "2025-03-19 02:37:29 +0000",
       "minecraft:creeper": "2025-03-18 22:02:21 +0000",
+      "minecraft:zombified_piglin": "2025-03-19 03:37:48 +0000",
       "minecraft:wither_skeleton": "2025-03-19 03:10:06 +0000",
       "minecraft:piglin": "2025-03-19 02:37:35 +0000",
       "minecraft:enderman": "2025-03-18 21:52:10 +0000",
@@ -2193,6 +2196,12 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/pitchfork": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-19 03:33:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-19 03:03:43 +0000"
@@ -2247,9 +2256,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-19 03:33:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-19 03:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-03-19 03:36:24 +0000"
     },
     "done": true
   },
