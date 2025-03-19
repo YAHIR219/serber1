@@ -4482,3 +4482,29 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Mar2025 04:57:44.034] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [19Mar2025 04:57:58.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Mar2025 04:57:58.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Mar2025 04:59:55.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> no uses ese ultimo hongo que queda gil
+[19Mar2025 05:00:06.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> ese lo usemos para conseguir mas
+[19Mar2025 05:00:13.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> D1
+[19Mar2025 05:00:25.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> no me acuerdo bien como era pera ya lo hare otro dia
+[19Mar2025 05:00:35.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> Q COSA''
+[19Mar2025 05:01:04.234] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[19Mar2025 05:01:20.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> nada
+[19Mar2025 05:01:53.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> tenes arena?
+[19Mar2025 05:02:04.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> si
+[19Mar2025 05:02:58.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Mar2025 05:02:58.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Mar2025 05:03:39.631] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=true, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[19Mar2025 05:03:54.700] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[19Mar2025 05:04:24.083] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[19Mar2025 05:06:15.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> hay q pagar un alma con otra alma
+[19Mar2025 05:06:29.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> enserio?
+[19Mar2025 05:06:37.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> asi es
+[19Mar2025 05:06:54.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> tenemos q matar a 2 aldeanos
+[19Mar2025 05:06:57.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Local Brewery]
+[19Mar2025 05:07:08.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> ahi uno solo nomas
+[19Mar2025 05:07:44.084] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[19Mar2025 05:07:44.084] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[19Mar2025 05:07:45.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> no te importa q muera gustav??
+[19Mar2025 05:07:52.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> no
+[19Mar2025 05:07:58.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Mar2025 05:07:58.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
