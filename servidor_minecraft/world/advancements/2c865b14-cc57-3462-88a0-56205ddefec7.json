@@ -2042,6 +2042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-03-19 05:08:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-19 05:04:16 +0000"
@@ -2102,6 +2108,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-03-19 05:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-03-19 05:08:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-03-19 04:45:06 +0000"
@@ -2156,6 +2174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-03-19 05:08:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-19 05:04:16 +0000"
@@ -2180,6 +2204,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-19 05:08:27 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/scythe_revive": {
+    "criteria": {
+      "iron": "2025-03-19 05:10:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-03-19 03:57:11 +0000"
@@ -2189,6 +2225,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-03-19 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-03-19 05:08:27 +0000"
     },
     "done": true
   },
@@ -2258,6 +2300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-19 05:08:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-03-19 03:03:22 +0000"
@@ -2273,6 +2321,12 @@
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2025-03-19 03:03:15 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/scythe_kill": {
+    "criteria": {
+      "iron": "2025-03-19 05:10:36 +0000"
     },
     "done": true
   },
@@ -2384,6 +2438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-19 05:08:27 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/pitchfork": {
     "criteria": {
       "has_iron_nugget": "2025-03-19 03:33:31 +0000"
@@ -2459,6 +2519,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-03-19 04:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-19 05:08:27 +0000"
     },
     "done": true
   },
