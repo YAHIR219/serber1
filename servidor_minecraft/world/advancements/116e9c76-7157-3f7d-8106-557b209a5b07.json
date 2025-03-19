@@ -3021,6 +3021,12 @@
     },
     "done": true
   },
+  "mca:adventure/kill_grim_reaper": {
+    "criteria": {
+      "killed_reaper": "2025-03-19 04:33:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-03-19 04:16:14 +0000"

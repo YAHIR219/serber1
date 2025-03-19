@@ -4088,3 +4088,85 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Mar2025 04:17:49.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Mar2025 04:18:02.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> nose
 [19Mar2025 04:18:07.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> en la aldea
+[19Mar2025 04:18:13.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> total no hay nadie
+[19Mar2025 04:18:17.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> e gil
+[19Mar2025 04:18:22.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> tengo una hoguera
+[19Mar2025 04:18:22.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> tiene q ser un lugar plano
+[19Mar2025 04:18:33.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> bien ahi gil
+[19Mar2025 04:18:35.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> seguime
+[19Mar2025 04:18:49.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> tenes un escudo=
+[19Mar2025 04:18:51.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> ?
+[19Mar2025 04:19:46.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> vamos
+[19Mar2025 04:19:53.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> me queda poca armor
+[19Mar2025 04:19:57.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> aviso
+[19Mar2025 04:20:18.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> tenes la piz la zuli
+[19Mar2025 04:20:23.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> no
+[19Mar2025 04:21:01.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> aca?
+[19Mar2025 04:21:04.084] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[19Mar2025 04:21:55.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> y?
+[19Mar2025 04:21:58.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> hay q esperar hasta la noche
+[19Mar2025 04:22:10.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set the time to 13000]
+[19Mar2025 04:22:49.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Mar2025 04:22:49.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Mar2025 04:22:51.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> ya vuelvo
+[19Mar2025 04:23:33.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> apurate gil
+[19Mar2025 04:23:37.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> que te falta
+[19Mar2025 04:24:06.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> ya voy
+[19Mar2025 04:24:23.983] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[19Mar2025 04:24:39.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> que era
+[19Mar2025 04:25:00.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> leelo y fijate q falta
+[19Mar2025 04:25:07.733] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=94, y=64, z=801} in minecraft:overworld
+[19Mar2025 04:25:07.733] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 16546
+[19Mar2025 04:25:07.734] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[19Mar2025 04:25:24.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> preparate gil
+[19Mar2025 04:25:36.142] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=94, y=64, z=801} in minecraft:overworld
+[19Mar2025 04:25:36.142] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 17115
+[19Mar2025 04:25:36.142] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 3 totems
+[19Mar2025 04:27:43.884] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[19Mar2025 04:27:43.884] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[19Mar2025 04:27:49.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Mar2025 04:27:49.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Mar2025 04:31:04.134] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[19Mar2025 04:32:49.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Mar2025 04:32:49.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Mar2025 04:33:00.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has completed the challenge [Beat Death]
+[19Mar2025 04:33:18.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> bien ahi gil
+[19Mar2025 04:33:18.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> no me dio nada
+[19Mar2025 04:33:23.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> a mi si
+[19Mar2025 04:33:35.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> esto....
+[19Mar2025 04:33:42.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> significa...
+[19Mar2025 04:33:58.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> podre verla de nuevo?
+[19Mar2025 04:33:59.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> si asi es
+[19Mar2025 04:34:11.013] [Netty Epoll Server IO #0/DEBUG] [emotecraft/]: [emotes server] Received data from: 116e9c76-7157-3f7d-8106-557b209a5b07 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, length=61, extra={valid=true}}, startingAt=0, player=null}
+[19Mar2025 04:34:23.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> invocare a los dioses para poder revivirla
+[19Mar2025 04:34:23.984] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[19Mar2025 04:34:28.200] [Netty Epoll Server IO #0/DEBUG] [emotecraft/]: [emotes server] Received data from: 116e9c76-7157-3f7d-8106-557b209a5b07 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, emoteData=null, startingAt=0, player=null}
+[19Mar2025 04:34:29.801] [Netty Epoll Server IO #0/DEBUG] [emotecraft/]: [emotes server] Received data from: 116e9c76-7157-3f7d-8106-557b209a5b07 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, length=61, extra={valid=true}}, startingAt=0, player=null}
+[19Mar2025 04:34:39.825] [Netty Epoll Server IO #0/DEBUG] [emotecraft/]: [emotes server] Received data from: 116e9c76-7157-3f7d-8106-557b209a5b07 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=a2969c42-520f-4c5c-a024-a7d0a2b7b4d1, length=104, extra={valid=true}}, startingAt=0, player=null}
+[19Mar2025 04:34:49.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> pero falta pociones de debilidad
+[19Mar2025 04:34:51.328] [Netty Epoll Server IO #0/DEBUG] [emotecraft/]: [emotes server] Received data from: 116e9c76-7157-3f7d-8106-557b209a5b07 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=96506a5e-a69c-4a18-9add-d43dfd272fa6, length=46, extra={valid=true}}, startingAt=0, player=null}
+[19Mar2025 04:35:33.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=79, y=76, z=878} BlockPos{x=78, y=75, z=879}
+[19Mar2025 04:35:33.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=79, y=76, z=878} BlockPos{x=78, y=75, z=879}
+[19Mar2025 04:35:33.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=79, y=76, z=878} BlockPos{x=78, y=75, z=879}
+[19Mar2025 04:35:33.253] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=77, z=879} BlockPos{x=78, y=75, z=879}
+[19Mar2025 04:35:33.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=77, z=879} BlockPos{x=78, y=75, z=879}
+[19Mar2025 04:35:33.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=77, z=879} BlockPos{x=78, y=75, z=879}
+[19Mar2025 04:35:33.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=76, z=882} BlockPos{x=78, y=75, z=879}
+[19Mar2025 04:35:33.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=76, z=882} BlockPos{x=78, y=75, z=879}
+[19Mar2025 04:35:33.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=76, z=882} BlockPos{x=78, y=75, z=879}
+[19Mar2025 04:35:33.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=76, z=882} BlockPos{x=78, y=75, z=879}
+[19Mar2025 04:35:33.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=77, z=880} BlockPos{x=78, y=75, z=879}
+[19Mar2025 04:35:33.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=77, z=881} BlockPos{x=78, y=75, z=879}
+[19Mar2025 04:35:33.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=77, z=882} BlockPos{x=75, y=75, z=883}
+[19Mar2025 04:35:50.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> el hongo marron
+[19Mar2025 04:36:35.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> ma gil
+[19Mar2025 04:36:45.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> estaba todo un tanque yo
+[19Mar2025 04:36:45.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> que
+[19Mar2025 04:36:56.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> literal
+[19Mar2025 04:37:03.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> a vos nomas te pegaba
+[19Mar2025 04:37:13.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> si
+[19Mar2025 04:37:26.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> deci q tenia la armadura mas poderosa
+[19Mar2025 04:37:43.933] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[19Mar2025 04:37:43.933] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[19Mar2025 04:37:49.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Mar2025 04:37:49.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
