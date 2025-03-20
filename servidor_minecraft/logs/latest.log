@@ -3946,3 +3946,16 @@ Things may not work well.
 [
   "AhNj}V`18,0+/"
 ]
+[20Mar2025 18:41:51.529] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@50c35cb7[id=<null>,name=Jukusting,properties={},legacy=false] (/127.113.44.68:46605) lost connection: Disconnected
+[20Mar2025 18:59:29.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukusting[/127.113.44.68:43047] logged in with entity id 7641 at (25.716994652772918, 70.0, 930.754929083697)
+[20Mar2025 18:59:29.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting joined the game
+[20Mar2025 18:59:29.213] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2c865b14-cc57-3462-88a0-56205ddefec7
+[20Mar2025 18:59:36.223] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jukusting (18)
+[20Mar2025 18:59:36.224] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jukusting
+[20Mar2025 18:59:39.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20Mar2025 18:59:52.697] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2c865b14-cc57-3462-88a0-56205ddefec7
+[20Mar2025 18:59:53.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2c865b14-cc57-3462-88a0-56205ddefec7
+[20Mar2025 18:59:53.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jukusting (2c865b14-cc57-3462-88a0-56205ddefec7) successfully connected to voice chat
+[20Mar2025 19:00:02.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7277ms or 145 ticks behind
+[20Mar2025 19:00:20.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3109ms or 62 ticks behind
+[20Mar2025 19:04:05.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> llamada?
