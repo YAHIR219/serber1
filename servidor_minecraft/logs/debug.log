@@ -9875,3 +9875,145 @@ java.lang.IllegalStateException: Nesting problem.
 [20Mar2025 21:58:00.196] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: 2c865b14-cc57-3462-88a0-56205ddefec7 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=a2969c42-520f-4c5c-a024-a7d0a2b7b4d1, length=104, extra={valid=true}}, startingAt=0, player=null}
 [20Mar2025 21:58:12.436] [Server thread/INFO] [wehavecookies56.bonfires.Bonfires/]: Bonfire'Santuario' lit at: X-1276 Y71 Z-3066 by PlagaXNZ
 [20Mar2025 21:58:13.296] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[20Mar2025 22:00:42.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20Mar2025 22:01:00.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2526ms or 50 ticks behind
+[20Mar2025 22:01:33.396] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[20Mar2025 22:02:41.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 22:02:41.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 22:04:53.346] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[20Mar2025 22:04:53.396] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[20Mar2025 22:07:41.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 22:07:41.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 22:08:13.336] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[20Mar2025 22:08:13.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20Mar2025 22:08:32.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3600ms or 72 ticks behind
+[20Mar2025 22:10:20.861] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:11:00.609] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:11:01.357] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:11:08.713] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:11:09.510] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:11:15.963] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:11:16.617] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:11:16.617] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:11:16.655] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:11:25.910] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:11:33.446] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[20Mar2025 22:11:48.954] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:11:50.729] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:11:56.558] [Server thread/INFO] [forge.net.mca.MCA/]: Force-stopped chore because assigning player was not present.
+[20Mar2025 22:12:21.912] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:12:22.016] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:12:27.717] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:12:32.614] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:12:32.664] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:12:44.965] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:12:46.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 22:12:46.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 22:12:47.607] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:12:47.663] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:12:48.304] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:12:53.410] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:12:56.409] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:13:20.104] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:13:24.260] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:13:30.710] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:13:31.756] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:13:37.145] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64530, l='ServerLevel[world]', x=52.47, y=107.16, z=115.43], dimensionLocationPath the_nether
+[20Mar2025 22:13:37.145] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64530, l='ServerLevel[world]', x=52.47, y=107.16, z=115.43] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:37.946] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64532, l='ServerLevel[world]', x=52.66, y=108.25, z=115.53], dimensionLocationPath the_nether
+[20Mar2025 22:13:37.946] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64532, l='ServerLevel[world]', x=52.66, y=108.25, z=115.53] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:38.796] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64533, l='ServerLevel[world]', x=52.25, y=109.56, z=115.62], dimensionLocationPath the_nether
+[20Mar2025 22:13:38.796] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64533, l='ServerLevel[world]', x=52.25, y=109.56, z=115.62] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:39.597] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64534, l='ServerLevel[world]', x=52.27, y=110.23, z=116.73], dimensionLocationPath the_nether
+[20Mar2025 22:13:39.597] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64534, l='ServerLevel[world]', x=52.27, y=110.23, z=116.73] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:40.065] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=53.39, y=106.00, z=116.50], dimensionLocationPath the_nether
+[20Mar2025 22:13:40.065] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=53.39, y=106.00, z=116.50] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:40.995] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64538, l='ServerLevel[world]', x=52.32, y=110.14, z=115.47], dimensionLocationPath the_nether
+[20Mar2025 22:13:40.995] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64538, l='ServerLevel[world]', x=52.32, y=110.14, z=115.47] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:41.946] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64539, l='ServerLevel[world]', x=53.65, y=110.60, z=115.65], dimensionLocationPath the_nether
+[20Mar2025 22:13:41.946] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64539, l='ServerLevel[world]', x=53.65, y=110.60, z=115.65] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:42.665] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:13:42.746] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64551, l='ServerLevel[world]', x=54.68, y=109.23, z=115.53], dimensionLocationPath the_nether
+[20Mar2025 22:13:42.746] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64551, l='ServerLevel[world]', x=54.68, y=109.23, z=115.53] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:43.495] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64553, l='ServerLevel[world]', x=54.44, y=110.15, z=115.43], dimensionLocationPath the_nether
+[20Mar2025 22:13:43.495] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64553, l='ServerLevel[world]', x=54.44, y=110.15, z=115.43] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:44.446] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64556, l='ServerLevel[world]', x=54.44, y=109.31, z=114.67], dimensionLocationPath the_nether
+[20Mar2025 22:13:44.446] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64556, l='ServerLevel[world]', x=54.44, y=109.31, z=114.67] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:45.195] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64559, l='ServerLevel[world]', x=53.59, y=110.54, z=114.39], dimensionLocationPath the_nether
+[20Mar2025 22:13:45.195] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64559, l='ServerLevel[world]', x=53.59, y=110.54, z=114.39] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:45.945] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64564, l='ServerLevel[world]', x=53.42, y=110.33, z=113.40], dimensionLocationPath the_nether
+[20Mar2025 22:13:45.945] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64564, l='ServerLevel[world]', x=53.42, y=110.33, z=113.40] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:46.846] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64567, l='ServerLevel[world]', x=54.52, y=110.20, z=113.53], dimensionLocationPath the_nether
+[20Mar2025 22:13:46.846] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64567, l='ServerLevel[world]', x=54.52, y=110.20, z=113.53] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:48.495] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64578, l='ServerLevel[world]', x=53.39, y=110.41, z=112.50], dimensionLocationPath the_nether
+[20Mar2025 22:13:48.495] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64578, l='ServerLevel[world]', x=53.39, y=110.41, z=112.50] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:48.805] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:13:49.446] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64582, l='ServerLevel[world]', x=52.30, y=108.25, z=114.31], dimensionLocationPath the_nether
+[20Mar2025 22:13:49.447] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64582, l='ServerLevel[world]', x=52.30, y=108.25, z=114.31] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:50.245] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64589, l='ServerLevel[world]', x=51.27, y=110.54, z=113.49], dimensionLocationPath the_nether
+[20Mar2025 22:13:50.245] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64589, l='ServerLevel[world]', x=51.27, y=110.54, z=113.49] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:51.096] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64594, l='ServerLevel[world]', x=51.65, y=110.51, z=114.67], dimensionLocationPath the_nether
+[20Mar2025 22:13:51.096] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64594, l='ServerLevel[world]', x=51.65, y=110.51, z=114.67] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:51.896] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64597, l='ServerLevel[world]', x=51.70, y=110.39, z=115.42], dimensionLocationPath the_nether
+[20Mar2025 22:13:51.896] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64597, l='ServerLevel[world]', x=51.70, y=110.39, z=115.42] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:52.209] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:13:52.997] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64603, l='ServerLevel[world]', x=55.64, y=109.22, z=114.59], dimensionLocationPath the_nether
+[20Mar2025 22:13:52.997] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64603, l='ServerLevel[world]', x=55.64, y=109.22, z=114.59] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:53.696] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64604, l='ServerLevel[world]', x=55.42, y=110.34, z=115.62], dimensionLocationPath the_nether
+[20Mar2025 22:13:53.696] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64604, l='ServerLevel[world]', x=55.42, y=110.34, z=115.62] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:54.445] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64609, l='ServerLevel[world]', x=54.52, y=110.24, z=116.33], dimensionLocationPath the_nether
+[20Mar2025 22:13:54.445] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64609, l='ServerLevel[world]', x=54.52, y=110.24, z=116.33] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:55.296] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64611, l='ServerLevel[world]', x=55.71, y=110.21, z=117.71], dimensionLocationPath the_nether
+[20Mar2025 22:13:55.296] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64611, l='ServerLevel[world]', x=55.71, y=110.21, z=117.71] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:56.095] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64613, l='ServerLevel[world]', x=56.35, y=110.33, z=117.49], dimensionLocationPath the_nether
+[20Mar2025 22:13:56.095] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64613, l='ServerLevel[world]', x=56.35, y=110.33, z=117.49] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:56.995] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64617, l='ServerLevel[world]', x=56.45, y=110.23, z=116.61], dimensionLocationPath the_nether
+[20Mar2025 22:13:56.995] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64617, l='ServerLevel[world]', x=56.45, y=110.23, z=116.61] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:58.346] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64621, l='ServerLevel[world]', x=56.47, y=110.24, z=115.59], dimensionLocationPath the_nether
+[20Mar2025 22:13:58.346] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64621, l='ServerLevel[world]', x=56.47, y=110.24, z=115.59] is dead or in a banned dimension the_nether
+[20Mar2025 22:13:59.296] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/64625, l='ServerLevel[world]', x=56.70, y=109.34, z=115.38], dimensionLocationPath the_nether
+[20Mar2025 22:13:59.296] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/64625, l='ServerLevel[world]', x=56.70, y=109.34, z=115.38] is dead or in a banned dimension the_nether
+[20Mar2025 22:14:10.370] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=53.57, y=91.00, z=116.45], dimensionLocationPath the_nether
+[20Mar2025 22:14:10.370] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=53.57, y=91.00, z=116.45] is dead or in a banned dimension the_nether
+[20Mar2025 22:14:16.111] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:14:16.161] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:14:16.606] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:14:16.773] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=53.62, y=91.00, z=116.66], dimensionLocationPath the_nether
+[20Mar2025 22:14:16.773] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=53.62, y=91.00, z=116.66] is dead or in a banned dimension the_nether
+[20Mar2025 22:14:22.010] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:14:27.857] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:14:28.867] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=53.02, y=72.00, z=113.21], dimensionLocationPath the_nether
+[20Mar2025 22:14:28.867] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=53.02, y=72.00, z=113.21] is dead or in a banned dimension the_nether
+[20Mar2025 22:14:35.110] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:14:35.160] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:14:39.414] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:14:39.465] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:14:53.395] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[20Mar2025 22:14:53.445] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[20Mar2025 22:15:09.705] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:15:17.163] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:15:19.906] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:15:29.457] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:15:30.355] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:15:43.215] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:15:48.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:15:49.013] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:15:55.066] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:16:14.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:16:15.723] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:16:15.765] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:16:17.764] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:16:51.710] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:16:55.958] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:17:01.161] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:17:01.209] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:17:28.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:17:43.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:17:46.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 22:17:46.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 22:17:48.270] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:17:48.371] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:18:13.345] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[20Mar2025 22:18:17.320] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:18:22.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:18:27.771] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already

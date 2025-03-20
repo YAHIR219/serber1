@@ -2857,6 +2857,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-03-20 22:04:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-03-20 21:54:06 +0000"
@@ -2875,11 +2881,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-20 22:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-20 22:13:39 +0000"
+    },
+    "done": true
+  },
   "mca:baby_dropped": {
     "criteria": {
       "baby_drop_attempts": "2025-03-20 21:43:18 +0000"
     },
     "done": false
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-03-20 22:04:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-20 22:13:39 +0000"
+    },
+    "done": true
   },
   "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
