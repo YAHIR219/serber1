@@ -4802,3 +4802,7 @@ java.lang.IllegalStateException: Nesting problem.
 [20Mar2025 21:43:14.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [You Monster!]
 [20Mar2025 21:46:34.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [20Mar2025 21:46:56.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6728ms or 134 ticks behind
+[20Mar2025 21:50:23.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Voluntary Exile]
+[20Mar2025 21:54:06.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has completed the challenge [Hero of the Village]
+[20Mar2025 21:56:37.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Destroyed Bonfire]
+[20Mar2025 21:58:12.436] [Server thread/INFO] [wehavecookies56.bonfires.Bonfires/]: Bonfire'Santuario' lit at: X-1276 Y71 Z-3066 by PlagaXNZ

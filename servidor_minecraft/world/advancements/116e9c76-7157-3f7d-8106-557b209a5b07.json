@@ -3551,6 +3551,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-20 21:54:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-03-20 21:54:04 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_ring": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 20:10:56 +0000"

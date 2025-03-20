@@ -455,6 +455,7 @@
       "minecraft:pillager": "2025-03-19 01:07:29 +0000",
       "minecraft:blaze": "2025-03-19 03:07:05 +0000",
       "minecraft:skeleton": "2025-03-18 22:05:04 +0000",
+      "minecraft:ravager": "2025-03-20 21:53:08 +0000",
       "minecraft:ghast": "2025-03-18 22:59:58 +0000",
       "minecraft:hoglin": "2025-03-19 03:38:18 +0000",
       "minecraft:vindicator": "2025-03-19 01:05:47 +0000",
@@ -2844,6 +2845,30 @@
     },
     "done": true
   },
+  "bonfires:recipes/combat/coiled_sword_smithing": {
+    "criteria": {
+      "has_coiled_sword_fragment": "2025-03-20 21:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-20 21:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-03-20 21:54:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-03-20 21:52:09 +0000"
+    },
+    "done": true
+  },
   "mca:monster": {
     "criteria": {
       "baby_drop_attempts": "2025-03-20 21:43:14 +0000"
@@ -2859,6 +2884,12 @@
   "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
       "has_diamond_pickaxe": "2025-03-20 21:26:18 +0000"
+    },
+    "done": true
+  },
+  "bonfires:bonfires/coiled_sword_fragment": {
+    "criteria": {
+      "has_fragment": "2025-03-20 21:56:37 +0000"
     },
     "done": true
   },
