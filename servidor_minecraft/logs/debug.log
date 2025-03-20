@@ -8712,3 +8712,32 @@ Things may not work well.
 [20Mar2025 19:45:23.259] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/17083, l='ServerLevel[world]', x=-1296.99, y=100.00, z=-2963.49], dimensionLocationPath overworld
 [20Mar2025 19:45:23.260] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/17083, l='ServerLevel[world]', x=-1296.99, y=100.00, z=-2963.49] in list []
 [20Mar2025 19:45:23.308] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/17083, l='ServerLevel[world]', x=-1297.17, y=100.00, z=-2963.38]
+[20Mar2025 19:46:06.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 19:46:06.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 19:46:18.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported Jukusting to PlagaXNZ]
+[20Mar2025 19:47:45.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/17083, l='ServerLevel[world]', x=-1218.21, y=70.17, z=-3067.24], dimensionLocationPath overworld
+[20Mar2025 19:47:45.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/17083, l='ServerLevel[world]', x=-1218.21, y=70.17, z=-3067.24] in list []
+[20Mar2025 19:47:45.762] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/17083, l='ServerLevel[world]', x=-1218.03, y=70.18, z=-3067.00]
+[20Mar2025 19:48:12.896] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[20Mar2025 19:48:56.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has completed the challenge [Rude Awakening]
+[20Mar2025 19:49:06.206] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/17083, l='ServerLevel[world]', x=-1199.71, y=66.00, z=-3062.85], dimensionLocationPath overworld
+[20Mar2025 19:49:06.206] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/17083, l='ServerLevel[world]', x=-1199.71, y=66.00, z=-3062.85] in list []
+[20Mar2025 19:49:06.311] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/17083, l='ServerLevel[world]', x=-1199.77, y=66.00, z=-3062.81]
+[20Mar2025 19:51:06.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 19:51:06.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 19:51:12.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Estus Flask]
+[20Mar2025 19:51:32.796] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[20Mar2025 19:52:05.846] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/25522, l='ServerLevel[world]', x=-1274.44, y=68.42, z=-3088.45], dimensionLocationPath overworld
+[20Mar2025 19:52:05.846] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/25522, l='ServerLevel[world]', x=-1274.44, y=68.42, z=-3088.45] in list []
+[20Mar2025 19:52:11.895] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/25522, l='ServerLevel[world]', x=-1275.15, y=67.94, z=-3087.55, removed=DISCARDED]
+[20Mar2025 19:52:28.810] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/17083, l='ServerLevel[world]', x=-1271.26, y=68.00, z=-3088.21], dimensionLocationPath overworld
+[20Mar2025 19:52:28.810] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/17083, l='ServerLevel[world]', x=-1271.26, y=68.00, z=-3088.21] in list []
+[20Mar2025 19:52:28.860] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/17083, l='ServerLevel[world]', x=-1271.25, y=68.00, z=-3088.20]
+[20Mar2025 19:53:51.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported Jukusting to 14.500000, 67.000000, 900.500000]
+[20Mar2025 19:54:04.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[20Mar2025 19:54:13.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported Jukusting to PlagaXNZ]
+[20Mar2025 19:54:52.896] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[20Mar2025 19:54:52.896] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[20Mar2025 19:55:45.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported Jukusting to 14.500000, 67.000000, 900.500000]
+[20Mar2025 19:56:08.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 19:56:08.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

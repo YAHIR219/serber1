@@ -53,6 +53,7 @@
       "minecraft:beach": "2025-03-18 23:37:13 +0000",
       "minecraft:dark_forest": "2025-03-19 04:48:51 +0000",
       "minecraft:river": "2025-03-18 21:41:07 +0000",
+      "minecraft:snowy_plains": "2025-03-20 19:46:18 +0000",
       "minecraft:dripstone_caves": "2025-03-19 01:49:21 +0000",
       "minecraft:cold_ocean": "2025-03-18 22:27:10 +0000",
       "minecraft:forest": "2025-03-18 21:40:52 +0000",
@@ -2681,6 +2682,18 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-03-20 19:26:00 +0000"
+    },
+    "done": true
+  },
+  "bonfires:bonfires/estus_flask": {
+    "criteria": {
+      "estus_flask": "2025-03-20 19:51:12 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-03-20 19:48:56 +0000"
     },
     "done": true
   },
