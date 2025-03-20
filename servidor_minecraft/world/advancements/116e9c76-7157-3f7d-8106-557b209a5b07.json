@@ -3293,12 +3293,6 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/packed_ice_freezing": {
-    "criteria": {
-      "has_water_bucket": "2025-03-20 19:05:21 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2025-03-20 17:56:47 +0000"
@@ -3308,24 +3302,6 @@
   "butcher:firstjoinadvancement": {
     "criteria": {
       "firstjoinadvancement_0": "2025-03-20 17:56:47 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/transportation/skyroot_boat": {
-    "criteria": {
-      "in_water": "2025-03-20 18:31:43 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/blue_ice_freezing": {
-    "criteria": {
-      "has_water_bucket": "2025-03-20 19:05:21 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_dart": {
-    "criteria": {
-      "has_feather": "2025-03-20 18:32:11 +0000"
     },
     "done": true
   },
@@ -3341,27 +3317,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-03-20 19:10:19 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/aether_saddle": {
-    "criteria": {
-      "has_leather": "2025-03-20 19:10:52 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/redstone/skyroot_note_block": {
     "criteria": {
       "has_redstone": "2025-03-20 17:56:47 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
-    "criteria": {
-      "has_water_bucket": "2025-03-20 19:05:21 +0000"
     },
     "done": true
   },
@@ -3377,27 +3335,9 @@
     },
     "done": true
   },
-  "packedup:recipes/misc/gold_from_copper": {
-    "criteria": {
-      "recipe_condition": "2025-03-20 19:12:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-03-20 19:10:19 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/redstone/skyroot_tripwire_hook": {
     "criteria": {
       "has_string": "2025-03-20 17:56:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-03-20 19:10:19 +0000"
     },
     "done": true
   },
@@ -3407,15 +3347,63 @@
     },
     "done": true
   },
-  "packedup:recipes/misc/silver_from_copper": {
+  "aether:recipes/decorations/skyroot_chest": {
     "criteria": {
-      "recipe_condition": "2025-03-20 19:12:03 +0000"
+      "has_lots_of_items": "2025-03-20 17:56:47 +0000"
     },
     "done": true
   },
-  "packedup:iron_or_copper_backpack": {
+  "aether:recipes/tools/iron_pickaxe_repairing": {
     "criteria": {
-      "has_copper_backpack": "2025-03-20 19:12:03 +0000"
+      "has_iron_pickaxe": "2025-03-20 17:56:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 18:31:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-03-20 18:32:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-20 19:05:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-20 19:05:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-20 19:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-20 19:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-20 19:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-20 19:10:19 +0000"
     },
     "done": true
   },
@@ -3431,9 +3419,9 @@
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_chest": {
+  "aether:recipes/tools/aether_saddle": {
     "criteria": {
-      "has_lots_of_items": "2025-03-20 17:56:47 +0000"
+      "has_leather": "2025-03-20 19:10:52 +0000"
     },
     "done": true
   },
@@ -3443,9 +3431,75 @@
     },
     "done": true
   },
-  "aether:recipes/tools/iron_pickaxe_repairing": {
+  "packedup:recipes/misc/gold_from_copper": {
     "criteria": {
-      "has_iron_pickaxe": "2025-03-20 17:56:47 +0000"
+      "recipe_condition": "2025-03-20 19:12:03 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/silver_from_copper": {
+    "criteria": {
+      "recipe_condition": "2025-03-20 19:12:03 +0000"
+    },
+    "done": true
+  },
+  "packedup:iron_or_copper_backpack": {
+    "criteria": {
+      "has_copper_backpack": "2025-03-20 19:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-20 19:24:54 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-03-20 19:24:54 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-03-20 19:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-20 19:24:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-20 19:24:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-03-20 19:25:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-20 19:25:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-03-20 19:25:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-03-20 19:27:21 +0000"
     },
     "done": true
   },
