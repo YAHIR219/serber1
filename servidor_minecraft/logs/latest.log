@@ -220,3 +220,7 @@
 [20Mar2025 02:19:24.994] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [20Mar2025 02:19:24.994] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [20Mar2025 02:21:59.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ was slain by Shy Guy
+[20Mar2025 02:37:35.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[20Mar2025 02:37:35.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[20Mar2025 02:37:35.385] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[20Mar2025 02:37:35.387] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
