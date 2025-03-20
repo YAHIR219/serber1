@@ -8778,3 +8778,44 @@ Things may not work well.
 [20Mar2025 20:11:47.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Mar2025 20:14:52.946] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [20Mar2025 20:14:52.946] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[20Mar2025 20:16:47.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 20:16:47.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 20:17:06.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[20Mar2025 20:17:27.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5788ms or 115 ticks behind
+[20Mar2025 20:17:47.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5271ms or 105 ticks behind
+[20Mar2025 20:18:05.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3504ms or 70 ticks behind
+[20Mar2025 20:18:12.990] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[20Mar2025 20:18:45.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20Mar2025 20:20:52.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[20Mar2025 20:21:16.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9421ms or 188 ticks behind
+[20Mar2025 20:21:32.964] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[20Mar2025 20:21:34.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2759ms or 55 ticks behind
+[20Mar2025 20:22:19.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 20:22:19.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 20:24:42.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported PlagaXNZ to Jukusting]
+[20Mar2025 20:24:52.995] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[20Mar2025 20:24:52.995] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[20Mar2025 20:26:52.879] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Mar2025 20:26:52.879] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=808, z=1073200}"
+}
+[20Mar2025 20:26:52.879] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[20Mar2025 20:26:52.879] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[34, -47, 25, -9, -77, -18, -13, 39, 106, 98, -34]"
+]
+[20Mar2025 20:26:54.610] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Mar2025 20:26:54.610] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=963, z=1073200}"
+}
+[20Mar2025 20:26:54.610] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[20Mar2025 20:26:54.610] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-64, 34, -46, 90, 114, -9, -27, 111, -110, 95, 97]"
+]
