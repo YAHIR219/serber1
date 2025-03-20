@@ -48,6 +48,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-03-18 21:33:25 +0000",
       "minecraft:taiga": "2025-03-18 21:40:46 +0000",
+      "minecraft:frozen_river": "2025-03-20 20:44:43 +0000",
       "minecraft:sunflower_plains": "2025-03-19 00:22:57 +0000",
       "minecraft:cherry_grove": "2025-03-19 01:46:41 +0000",
       "minecraft:beach": "2025-03-18 23:37:13 +0000",
@@ -1619,7 +1620,8 @@
   },
   "recrafted_creatures:unfamiliar_fauna": {
     "criteria": {
-      "beaver": "2025-03-19 00:20:26 +0000"
+      "beaver": "2025-03-19 00:20:26 +0000",
+      "mammoth": "2025-03-20 20:43:26 +0000"
     },
     "done": false
   },
@@ -2685,9 +2687,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-03-20 20:43:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-03-20 20:43:44 +0000"
+    },
+    "done": true
+  },
   "mca:baby": {
     "criteria": {
       "baby": "2025-03-20 20:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-03-20 20:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-03-20 20:43:44 +0000"
     },
     "done": true
   },
@@ -2709,9 +2735,22 @@
     },
     "done": true
   },
+  "bonfires:bonfires/bonfire_lit": {
+    "criteria": {
+      "lit": "2025-03-20 20:41:38 +0000"
+    },
+    "done": true
+  },
   "bonfires:bonfires/estus_flask": {
     "criteria": {
       "estus_flask": "2025-03-20 19:51:12 +0000"
+    },
+    "done": true
+  },
+  "bonfires:recipes/combat/coiled_sword": {
+    "criteria": {
+      "has_ash_bone_pile": "2025-03-20 20:40:40 +0000",
+      "has_the_recipe": "2025-03-20 20:40:40 +0000"
     },
     "done": true
   },
@@ -2739,9 +2778,21 @@
     },
     "done": true
   },
+  "bonfires:bonfires/ash_bone_pile": {
+    "criteria": {
+      "ash_bone_pile": "2025-03-20 20:40:40 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_pendant": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 19:57:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-03-20 20:40:30 +0000"
     },
     "done": true
   },
