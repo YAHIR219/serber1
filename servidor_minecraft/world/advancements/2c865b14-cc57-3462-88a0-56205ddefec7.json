@@ -2687,43 +2687,43 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_banner": {
+  "mowziesmobs:kill_frostmaw": {
     "criteria": {
-      "has_brown_wool": "2025-03-20 20:43:44 +0000"
+      "frostmaw": "2025-03-20 19:48:56 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/iron_pendant": {
+  "bonfires:bonfires/estus_flask": {
     "criteria": {
-      "has_iron_ingot": "2025-03-20 21:04:00 +0000"
+      "estus_flask": "2025-03-20 19:51:12 +0000"
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_bed": {
+  "aether:recipes/combat/golden_ring": {
     "criteria": {
-      "has_wool": "2025-03-20 20:43:44 +0000"
+      "has_gold_ingot": "2025-03-20 19:57:50 +0000"
     },
     "done": true
   },
-  "mca:baby": {
+  "aether:recipes/combat/golden_gloves": {
     "criteria": {
-      "baby": "2025-03-20 20:04:27 +0000"
+      "has_gold": "2025-03-20 19:57:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_bed": {
+  "aether:recipes/combat/golden_pendant": {
     "criteria": {
-      "has_brown_wool": "2025-03-20 20:43:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2025-03-20 20:43:44 +0000"
+      "has_gold_ingot": "2025-03-20 19:57:50 +0000"
     },
     "done": true
   },
   "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-03-20 19:58:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2025-03-20 19:58:35 +0000"
     },
@@ -2741,15 +2741,58 @@
     },
     "done": true
   },
+  "mca:baby": {
+    "criteria": {
+      "baby": "2025-03-20 20:04:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-03-20 20:40:30 +0000"
+    },
+    "done": true
+  },
+  "bonfires:recipes/combat/coiled_sword": {
+    "criteria": {
+      "has_ash_bone_pile": "2025-03-20 20:40:40 +0000",
+      "has_the_recipe": "2025-03-20 20:40:40 +0000"
+    },
+    "done": true
+  },
+  "bonfires:bonfires/ash_bone_pile": {
+    "criteria": {
+      "ash_bone_pile": "2025-03-20 20:40:40 +0000"
+    },
+    "done": true
+  },
   "bonfires:bonfires/bonfire_lit": {
     "criteria": {
       "lit": "2025-03-20 20:41:38 +0000"
     },
     "done": true
   },
-  "bonfires:bonfires/estus_flask": {
+  "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
-      "estus_flask": "2025-03-20 19:51:12 +0000"
+      "has_brown_wool": "2025-03-20 20:43:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-03-20 20:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-03-20 20:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-03-20 20:43:44 +0000"
     },
     "done": true
   },
@@ -2765,22 +2808,15 @@
     },
     "done": true
   },
-  "bonfires:recipes/combat/coiled_sword": {
+  "recrafted_creatures:mammoth_meat": {
     "criteria": {
-      "has_ash_bone_pile": "2025-03-20 20:40:40 +0000",
-      "has_the_recipe": "2025-03-20 20:40:40 +0000"
+      "meat": "2025-03-20 21:02:15 +0000"
     },
     "done": true
   },
-  "mowziesmobs:kill_frostmaw": {
+  "aether:recipes/combat/iron_pendant": {
     "criteria": {
-      "frostmaw": "2025-03-20 19:48:56 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_ring": {
-    "criteria": {
-      "has_gold_ingot": "2025-03-20 19:57:50 +0000"
+      "has_iron_ingot": "2025-03-20 21:04:00 +0000"
     },
     "done": true
   },
@@ -2802,45 +2838,15 @@
     },
     "done": true
   },
-  "recrafted_creatures:mammoth_meat": {
-    "criteria": {
-      "meat": "2025-03-20 21:02:15 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_gloves": {
-    "criteria": {
-      "has_gold": "2025-03-20 19:57:50 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 21:04:00 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_gloves": {
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
-      "has_diamond": "2025-03-20 19:58:35 +0000"
-    },
-    "done": true
-  },
-  "bonfires:bonfires/ash_bone_pile": {
-    "criteria": {
-      "ash_bone_pile": "2025-03-20 20:40:40 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_pendant": {
-    "criteria": {
-      "has_gold_ingot": "2025-03-20 19:57:50 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_helmet_repairing": {
-    "criteria": {
-      "has_golden_helmet": "2025-03-20 20:40:30 +0000"
+      "has_diamond_pickaxe": "2025-03-20 21:26:18 +0000"
     },
     "done": true
   },

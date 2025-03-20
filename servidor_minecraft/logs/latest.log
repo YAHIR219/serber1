@@ -4782,3 +4782,14 @@ java.lang.IllegalStateException: Nesting problem.
 [20Mar2025 21:15:52.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting left the game
 [20Mar2025 21:15:52.263] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2c865b14-cc57-3462-88a0-56205ddefec7
 [20Mar2025 21:15:52.263] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukusting
+[20Mar2025 21:23:02.760] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@30439d8a[id=<null>,name=Jukusting,properties={},legacy=false] (/127.113.44.68:45549) lost connection: Disconnected
+[20Mar2025 21:24:04.107] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77bb0943[id=<null>,name=Jukusting,properties={},legacy=false] (/127.113.44.68:50535) lost connection: Disconnected
+[20Mar2025 21:24:16.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukusting[/127.113.44.68:50661] logged in with entity id 48601 at (-1242.9468946885315, 70.25220334025373, -3083.1094682348717)
+[20Mar2025 21:24:16.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting joined the game
+[20Mar2025 21:24:16.917] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2c865b14-cc57-3462-88a0-56205ddefec7
+[20Mar2025 21:24:17.958] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jukusting (18)
+[20Mar2025 21:24:17.958] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jukusting
+[20Mar2025 21:24:20.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2c865b14-cc57-3462-88a0-56205ddefec7
+[20Mar2025 21:24:21.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2c865b14-cc57-3462-88a0-56205ddefec7
+[20Mar2025 21:24:21.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jukusting (2c865b14-cc57-3462-88a0-56205ddefec7) successfully connected to voice chat
+[20Mar2025 21:27:29.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported PlagaXNZ to Jukusting]
