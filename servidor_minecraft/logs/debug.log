@@ -10017,3 +10017,90 @@ java.lang.IllegalStateException: Nesting problem.
 [20Mar2025 22:18:17.320] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
 [20Mar2025 22:18:22.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
 [20Mar2025 22:18:27.771] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:19:23.675] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:19:23.675] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:19:24.162] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:19:26.576] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:19:28.376] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:19:29.071] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:19:46.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:19:49.416] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:19:58.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:20:18.573] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:20:40.362] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:20:46.661] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:20:47.122] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:20:52.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:20:52.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:21:05.604] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:21:09.913] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:21:29.258] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:21:29.361] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:21:29.918] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:21:30.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:21:30.116] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:21:30.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:21:31.358] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:21:32.856] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:21:33.496] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[20Mar2025 22:21:36.657] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:21:36.763] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:21:46.010] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:22:00.011] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:22:02.613] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:22:08.558] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:22:18.155] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:22:36.458] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:22:37.955] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:22:38.960] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:22:46.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 22:22:46.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 22:22:53.310] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:22:53.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:22:55.266] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:22:59.067] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:22:59.120] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:23:06.113] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:23:10.364] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:23:11.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Mine? Mine? Mine?]
+[20Mar2025 22:23:11.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:23:52.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:23:52.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:24:16.767] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:24:17.464] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[20Mar2025 22:24:18.010] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/68818, l='ServerLevel[world]', x=-472.52, y=-17.52, z=137.35], dimensionLocationPath overworld
+[20Mar2025 22:24:18.010] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/68818, l='ServerLevel[world]', x=-472.52, y=-17.52, z=137.35] in list []
+[20Mar2025 22:24:18.815] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/68818, l='ServerLevel[world]', x=-471.75, y=-20.00, z=137.89, removed=DISCARDED]
+[20Mar2025 22:24:30.710] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/69239, l='ServerLevel[world]', x=-392.37, y=-28.36, z=92.60], dimensionLocationPath overworld
+[20Mar2025 22:24:30.711] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/69239, l='ServerLevel[world]', x=-392.37, y=-28.36, z=92.60] in list []
+[20Mar2025 22:24:50.714] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=25.18, y=69.00, z=953.74], dimensionLocationPath overworld
+[20Mar2025 22:24:50.714] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=25.18, y=69.00, z=953.74] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@10e77]
+[20Mar2025 22:24:50.816] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=25.47, y=69.42, z=954.34]
+[20Mar2025 22:24:53.267] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=24.82, y=69.00, z=958.07], dimensionLocationPath overworld
+[20Mar2025 22:24:53.267] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=24.82, y=69.00, z=958.07] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@10e77]
+[20Mar2025 22:24:53.396] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[20Mar2025 22:24:53.446] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[20Mar2025 22:24:55.867] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=20.29, y=69.00, z=963.26]
+[20Mar2025 22:24:58.124] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=20.72, y=69.00, z=963.44], dimensionLocationPath overworld
+[20Mar2025 22:24:58.124] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=20.72, y=69.00, z=963.44] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@10e77]
+[20Mar2025 22:25:09.585] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=20.13, y=69.00, z=958.44]
+[20Mar2025 22:25:11.627] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=19.38, y=69.00, z=956.70], dimensionLocationPath overworld
+[20Mar2025 22:25:11.627] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=19.38, y=69.00, z=956.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@10e77]
+[20Mar2025 22:25:20.889] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=17.66, y=74.00, z=958.23]
+[20Mar2025 22:25:22.789] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=17.69, y=74.00, z=958.53], dimensionLocationPath overworld
+[20Mar2025 22:25:22.789] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=17.69, y=74.00, z=958.53] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@10e77]
+[20Mar2025 22:25:24.442] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=17.79, y=75.17, z=958.27]
+[20Mar2025 22:26:02.007] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/69239, l='ServerLevel[world]', x=-392.53, y=-31.00, z=92.61, removed=UNLOADED_TO_CHUNK]
+[20Mar2025 22:26:18.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20Mar2025 22:26:36.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2895ms or 57 ticks behind
+[20Mar2025 22:26:42.679] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=25.09, y=70.00, z=927.93], dimensionLocationPath overworld
+[20Mar2025 22:26:42.679] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=25.09, y=70.00, z=927.93] in list []
+[20Mar2025 22:26:43.996] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=25.09, y=70.00, z=927.93]
+[20Mar2025 22:27:01.987] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=16.67, y=70.56, z=932.22], dimensionLocationPath overworld
+[20Mar2025 22:27:01.987] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=16.67, y=70.56, z=932.22] in list []
+[20Mar2025 22:27:14.586] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/48601, l='ServerLevel[world]', x=36.56, y=69.00, z=934.10]
+[20Mar2025 22:27:51.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 22:27:52.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 22:28:09.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20Mar2025 22:28:13.371] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[20Mar2025 22:28:28.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3831ms or 76 ticks behind
