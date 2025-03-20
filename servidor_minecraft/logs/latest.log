@@ -4503,3 +4503,6 @@ Things may not work well.
 [20Mar2025 20:43:52.026] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26002, l='ServerLevel[world]', x=-1109.76, y=71.23, z=-2879.74, removed=DISCARDED]
 [20Mar2025 20:46:56.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Me eat Meat, Meat good]
 [20Mar2025 20:47:09.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported PlagaXNZ to Jukusting]
+[20Mar2025 20:47:34.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Destroyed Bonfire]
+[20Mar2025 20:51:45.922] [Server thread/INFO] [wehavecookies56.bonfires.Bonfires/]: Bonfire'Provisorio' lit at: X21 Y70 Z929 by PlagaXNZ
+[20Mar2025 20:56:46.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Estus Shard]

@@ -2747,6 +2747,12 @@
     },
     "done": true
   },
+  "bonfires:bonfires/estus_shard": {
+    "criteria": {
+      "estus_shard": "2025-03-20 20:56:46 +0000"
+    },
+    "done": true
+  },
   "bonfires:recipes/combat/coiled_sword": {
     "criteria": {
       "has_ash_bone_pile": "2025-03-20 20:40:40 +0000",
