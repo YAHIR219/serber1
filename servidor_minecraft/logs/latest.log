@@ -7807,3 +7807,22 @@ java.lang.IllegalStateException: Nesting problem.
 [20Mar2025 23:18:01.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Jukusting) moved too quickly! 6.161682215264364E-4,-320.97435040631655,0.0018097819240665558
 [20Mar2025 23:18:01.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Jukusting) moved too quickly! 7.299182248061697E-4,-321.22435040631655,0.002264781937128646
 [20Mar2025 23:18:01.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Jukusting) moved too quickly! 8.334307307791278E-4,-321.39595040631656,0.002678831961020478
+[20Mar2025 23:21:15.949] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PlagaXNZ[/127.71.30.2:35819] logged in with entity id 94122 at (-1270.4888763989754, 71.0, -3069.892163273529)
+[20Mar2025 23:21:15.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ joined the game
+[20Mar2025 23:21:15.967] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[20Mar2025 23:21:16.297] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PlagaXNZ (18)
+[20Mar2025 23:21:16.297] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[20Mar2025 23:21:17.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
+[20Mar2025 23:21:18.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
+[20Mar2025 23:21:18.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[20Mar2025 23:21:22.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[20Mar2025 23:21:40.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2247ms or 44 ticks behind
+[20Mar2025 23:24:38.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> dame un fortuna 3
+[20Mar2025 23:25:28.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> y no tengo para mi queres que te de a vos
+[20Mar2025 23:26:06.884] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26002, l='ServerLevel[world]', x=-1109.76, y=71.23, z=-2879.74, removed=DISCARDED]
+[20Mar2025 23:26:43.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> farmea palos
+[20Mar2025 23:29:47.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ moved too quickly! -9.16943281990575,2.419999986886978,-6.437278808820793
+[20Mar2025 23:30:17.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> se termino la llamada??
+[20Mar2025 23:30:53.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> termino de comer y llamo
+[20Mar2025 23:31:22.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> D1 e gil si tenemos fortuna 3
+[20Mar2025 23:31:27.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> damelo a m
