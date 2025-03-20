@@ -2882,6 +2882,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/carved_stairs": {
+    "criteria": {
+      "has_carved_stone": "2025-03-20 23:16:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/food/healing_stone_enchanting": {
     "criteria": {
       "has_holystone": "2025-03-20 22:54:38 +0000"
@@ -3026,6 +3032,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/carved_slab": {
+    "criteria": {
+      "has_carved_stone": "2025-03-20 23:16:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/zanite_chestplate": {
     "criteria": {
       "has_zanite": "2025-03-20 22:52:11 +0000"
@@ -3035,6 +3047,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-03-20 21:54:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_slab_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-03-20 23:16:26 +0000"
     },
     "done": true
   },
@@ -3122,6 +3140,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/carved_wall": {
+    "criteria": {
+      "has_carved_stone": "2025-03-20 23:16:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/flower_to_purple_dye": {
     "criteria": {
       "has_purple_flower": "2025-03-20 22:49:52 +0000"
@@ -3149,6 +3173,12 @@
   "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
       "has_iron_axe": "2025-03-20 21:52:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/sentry_stone_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-03-20 23:16:26 +0000"
     },
     "done": true
   },
@@ -3224,9 +3254,21 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/carved_wall_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-03-20 23:16:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/poison_dart_shooter": {
     "criteria": {
       "has_aechor_petal": "2025-03-20 22:51:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_stairs_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-03-20 23:16:26 +0000"
     },
     "done": true
   },
