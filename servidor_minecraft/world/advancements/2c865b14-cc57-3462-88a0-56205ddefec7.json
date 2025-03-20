@@ -2869,15 +2869,33 @@
     },
     "done": true
   },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-03-20 22:47:42 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
       "has_iron_axe": "2025-03-20 21:52:09 +0000"
     },
     "done": true
   },
+  "aether:recipes/building_blocks/skyroot_planks": {
+    "criteria": {
+      "has_logs": "2025-03-20 22:47:55 +0000"
+    },
+    "done": true
+  },
   "mca:monster": {
     "criteria": {
       "baby_drop_attempts": "2025-03-20 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-03-20 22:47:42 +0000"
     },
     "done": true
   },
@@ -2898,6 +2916,12 @@
       "baby_drop_attempts": "2025-03-20 21:43:18 +0000"
     },
     "done": false
+  },
+  "aether:recipes/building_blocks/skyroot_wood": {
+    "criteria": {
+      "has_log": "2025-03-20 22:47:55 +0000"
+    },
+    "done": true
   },
   "aether:recipes/combat/leather_gloves": {
     "criteria": {
