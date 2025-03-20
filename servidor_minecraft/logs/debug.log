@@ -7595,3 +7595,11 @@ Things may not work well.
 [20Mar2025 18:24:01.375] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/79, l='ServerLevel[world]', x=-1230.67, y=70.00, z=-3055.68], dimensionLocationPath overworld
 [20Mar2025 18:24:01.375] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/79, l='ServerLevel[world]', x=-1230.67, y=70.00, z=-3055.68] in list []
 [20Mar2025 18:24:01.417] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/79, l='ServerLevel[world]', x=-1230.77, y=70.00, z=-3055.47]
+[20Mar2025 18:24:52.446] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[20Mar2025 18:24:52.496] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[20Mar2025 18:24:55.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 18:24:55.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 18:28:12.645] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[20Mar2025 18:29:55.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 18:29:55.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 18:31:32.545] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
