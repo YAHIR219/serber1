@@ -3293,6 +3293,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-20 19:05:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2025-03-20 17:56:47 +0000"
@@ -3308,6 +3314,12 @@
   "aether:recipes/transportation/skyroot_boat": {
     "criteria": {
       "in_water": "2025-03-20 18:31:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-20 19:05:21 +0000"
     },
     "done": true
   },
@@ -3329,9 +3341,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-20 19:10:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-03-20 19:10:52 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_note_block": {
     "criteria": {
       "has_redstone": "2025-03-20 17:56:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-20 19:05:21 +0000"
     },
     "done": true
   },
@@ -3347,9 +3377,27 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/gold_from_copper": {
+    "criteria": {
+      "recipe_condition": "2025-03-20 19:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-20 19:10:19 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_tripwire_hook": {
     "criteria": {
       "has_string": "2025-03-20 17:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-20 19:10:19 +0000"
     },
     "done": true
   },
@@ -3359,9 +3407,39 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/silver_from_copper": {
+    "criteria": {
+      "recipe_condition": "2025-03-20 19:12:03 +0000"
+    },
+    "done": true
+  },
+  "packedup:iron_or_copper_backpack": {
+    "criteria": {
+      "has_copper_backpack": "2025-03-20 19:12:03 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-20 19:10:19 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/copper_silo": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-20 19:10:19 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_chest": {
     "criteria": {
       "has_lots_of_items": "2025-03-20 17:56:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-03-20 19:10:52 +0000"
     },
     "done": true
   },

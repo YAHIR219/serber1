@@ -7996,3 +7996,61 @@ Things may not work well.
 [20Mar2025 19:04:05.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> llamada?
 [20Mar2025 19:04:52.646] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [20Mar2025 19:04:52.646] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[20Mar2025 19:05:07.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 19:05:07.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 19:06:00.173] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/79, l='ServerLevel[world]', x=-1195.66, y=73.00, z=-2999.88]
+[20Mar2025 19:06:05.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20Mar2025 19:06:22.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[20Mar2025 19:06:39.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20Mar2025 19:07:47.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ was slain by Frostmaw
+[20Mar2025 19:07:47.946] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/9790, l='ServerLevel[world]', x=-1225.82, y=68.10, z=-3048.78], dimensionLocationPath overworld
+[20Mar2025 19:07:47.946] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/9790, l='ServerLevel[world]', x=-1225.82, y=68.10, z=-3048.78] in list []
+[20Mar2025 19:08:07.096] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/9790, l='ServerLevel[world]', x=-1225.49, y=68.00, z=-3050.24, removed=DISCARDED]
+[20Mar2025 19:08:12.795] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[20Mar2025 19:09:24.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[20Mar2025 19:09:41.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[20Mar2025 19:09:51.083] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/79, l='ServerLevel[world]', x=-1265.74, y=71.00, z=-3063.08], dimensionLocationPath overworld
+[20Mar2025 19:09:51.083] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/79, l='ServerLevel[world]', x=-1265.74, y=71.00, z=-3063.08] in list []
+[20Mar2025 19:09:51.296] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/79, l='ServerLevel[world]', x=-1265.74, y=71.00, z=-3063.08]
+[20Mar2025 19:10:15.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20Mar2025 19:10:20.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 19:10:20.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 19:10:42.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20Mar2025 19:11:02.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4307ms or 86 ticks behind
+[20Mar2025 19:11:26.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[20Mar2025 19:11:32.702] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[20Mar2025 19:11:44.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3331ms or 66 ticks behind
+[20Mar2025 19:12:03.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Bigger is better]
+[20Mar2025 19:12:14.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting was slain by Zombie
+[20Mar2025 19:13:01.216] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/79, l='ServerLevel[world]', x=-1297.23, y=71.00, z=-3073.09], dimensionLocationPath overworld
+[20Mar2025 19:13:01.216] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/79, l='ServerLevel[world]', x=-1297.23, y=71.00, z=-3073.09] in list []
+[20Mar2025 19:13:01.517] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/79, l='ServerLevel[world]', x=-1295.54, y=71.00, z=-3073.31]
+[20Mar2025 19:13:04.218] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/79, l='ServerLevel[world]', x=-1289.53, y=71.00, z=-3070.95], dimensionLocationPath overworld
+[20Mar2025 19:13:04.219] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/79, l='ServerLevel[world]', x=-1289.53, y=71.00, z=-3070.95] in list []
+[20Mar2025 19:13:04.618] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/79, l='ServerLevel[world]', x=-1287.67, y=71.00, z=-3069.69]
+[20Mar2025 19:13:50.960] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/79, l='ServerLevel[world]', x=-1271.83, y=71.56, z=-3063.71], dimensionLocationPath overworld
+[20Mar2025 19:13:50.960] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/79, l='ServerLevel[world]', x=-1271.83, y=71.56, z=-3063.71] in list []
+[20Mar2025 19:14:00.395] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/11125, l='ServerLevel[world]', x=-1269.67, y=68.43, z=-3040.60], dimensionLocationPath overworld
+[20Mar2025 19:14:00.395] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/11125, l='ServerLevel[world]', x=-1269.67, y=68.43, z=-3040.60] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4f]
+[20Mar2025 19:14:00.895] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/11125, l='ServerLevel[world]', x=-1269.74, y=68.18, z=-3041.24, removed=DISCARDED]
+[20Mar2025 19:14:08.114] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/79, l='ServerLevel[world]', x=-1295.15, y=71.00, z=-3060.19]
+[20Mar2025 19:14:52.696] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[20Mar2025 19:14:52.696] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[20Mar2025 19:15:05.611] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Heidi'/11182, l='ServerLevel[world]', x=-17.11, y=65.00, z=895.60] died, message: 'Heidi (Staying) was slain by Zombie'
+[20Mar2025 19:15:05.613] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Heidi'/11182, l='ServerLevel[world]', x=-17.11, y=65.00, z=895.60] died: Heidi (Staying) was slain by Zombie
+[20Mar2025 19:15:30.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> e gil tenes la hoz??
+[20Mar2025 19:15:31.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 19:15:31.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 19:18:12.831] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[20Mar2025 19:18:31.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20Mar2025 19:19:04.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20Mar2025 19:19:31.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20Mar2025 19:20:37.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 19:20:37.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 19:20:45.893] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PlagaXNZ: {disabled=false, disconnected=false, uuid=116e9c76-7157-3f7d-8106-557b209a5b07, name=PlagaXNZ, group=null}
+[20Mar2025 19:20:58.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20Mar2025 19:21:15.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2392ms or 47 ticks behind
+[20Mar2025 19:21:32.703] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[20Mar2025 19:21:33.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2337ms or 46 ticks behind
+[20Mar2025 19:24:52.746] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[20Mar2025 19:24:52.746] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
