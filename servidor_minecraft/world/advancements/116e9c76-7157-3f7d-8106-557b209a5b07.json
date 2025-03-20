@@ -3503,5 +3503,17 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-03-20 20:00:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-03-20 20:00:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
