@@ -13460,3 +13460,18 @@ java.lang.IllegalStateException: Nesting problem.
 [20Mar2025 23:30:53.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> termino de comer y llamo
 [20Mar2025 23:31:22.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> D1 e gil si tenemos fortuna 3
 [20Mar2025 23:31:27.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> damelo a m
+[20Mar2025 23:31:33.746] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[20Mar2025 23:31:47.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> asi la pongo en el pico de diamante
+[20Mar2025 23:31:48.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> bueno gil solamente porque tenes pico de diamante
+[20Mar2025 23:33:20.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 23:33:20.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 23:34:53.685] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[20Mar2025 23:34:53.822] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[20Mar2025 23:35:05.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20Mar2025 23:35:28.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20Mar2025 23:37:18.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> e gil por lo menos ayuda a farmear palos
+[20Mar2025 23:38:13.683] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[20Mar2025 23:38:25.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 23:38:25.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 23:40:50.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [What a Deal!]
+[20Mar2025 23:41:33.795] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
