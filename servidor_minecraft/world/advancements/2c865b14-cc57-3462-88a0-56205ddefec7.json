@@ -2844,6 +2844,18 @@
     },
     "done": true
   },
+  "mca:monster": {
+    "criteria": {
+      "baby_drop_attempts": "2025-03-20 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "mca:baby_dropped": {
+    "criteria": {
+      "baby_drop_attempts": "2025-03-20 21:43:18 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
       "has_diamond_pickaxe": "2025-03-20 21:26:18 +0000"

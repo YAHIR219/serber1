@@ -4795,3 +4795,10 @@ java.lang.IllegalStateException: Nesting problem.
 [20Mar2025 21:27:29.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported PlagaXNZ to Jukusting]
 [20Mar2025 21:28:30.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported PlagaXNZ to Jukusting]
 [20Mar2025 21:34:35.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20Mar2025 21:39:16.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20Mar2025 21:39:33.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind
+[20Mar2025 21:39:54.209] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Eugeniu'/52223, l='ServerLevel[world]', x=-1259.30, y=-40.00, z=-3054.30] died, message: 'Eugeniu hit the ground too hard whilst trying to escape Zombie'
+[20Mar2025 21:39:54.209] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Eugeniu'/52223, l='ServerLevel[world]', x=-1259.30, y=-40.00, z=-3054.30] died: Eugeniu was doomed to fall by Zombie
+[20Mar2025 21:43:14.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [You Monster!]
+[20Mar2025 21:46:34.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20Mar2025 21:46:56.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6728ms or 134 ticks behind
