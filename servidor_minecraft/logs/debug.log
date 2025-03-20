@@ -10104,3 +10104,19 @@ java.lang.IllegalStateException: Nesting problem.
 [20Mar2025 22:28:09.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [20Mar2025 22:28:13.371] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
 [20Mar2025 22:28:28.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3831ms or 76 ticks behind
+[20Mar2025 22:29:48.568] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/72671, l='ServerLevel[world]', x=-509.74, y=-41.28, z=-787.31], dimensionLocationPath overworld
+[20Mar2025 22:29:48.568] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/72671, l='ServerLevel[world]', x=-509.74, y=-41.28, z=-787.31] in list []
+[20Mar2025 22:30:54.097] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/72671, l='ServerLevel[world]', x=-510.16, y=-44.00, z=-787.13, removed=UNLOADED_TO_CHUNK]
+[20Mar2025 22:31:33.521] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[20Mar2025 22:31:58.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[20Mar2025 22:32:59.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 22:32:59.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 22:33:10.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20Mar2025 22:33:27.972] [Worker-Main-236/DEBUG] [mixin/]: Mixing VillagerTaskListProviderMixin from friendsandfoes-common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[20Mar2025 22:34:53.446] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[20Mar2025 22:34:53.495] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[20Mar2025 22:36:50.834] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26002, l='ServerLevel[world]', x=-1109.76, y=71.23, z=-2879.74, removed=DISCARDED]
+[20Mar2025 22:38:01.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 22:38:01.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 22:38:09.121] [Server thread/INFO] [wehavecookies56.bonfires.Bonfires/]: Bonfire'Santuario' lit at: X-1276 Y71 Z-3065 by PlagaXNZ
+[20Mar2025 22:38:13.396] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
