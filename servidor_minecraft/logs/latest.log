@@ -4506,3 +4506,7 @@ Things may not work well.
 [20Mar2025 20:47:34.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Destroyed Bonfire]
 [20Mar2025 20:51:45.922] [Server thread/INFO] [wehavecookies56.bonfires.Bonfires/]: Bonfire'Provisorio' lit at: X21 Y70 Z929 by PlagaXNZ
 [20Mar2025 20:56:46.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Estus Shard]
+[20Mar2025 20:58:04.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[20Mar2025 21:02:15.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Me eat Meat, Meat good]
+[20Mar2025 21:03:17.934] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dorin'/41994, l='ServerLevel[world]', x=-1359.82, y=77.00, z=-2980.71] died, message: 'Dorin was slain by Jukusting'
+[20Mar2025 21:03:17.935] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Dorin'/41994, l='ServerLevel[world]', x=-1359.82, y=77.00, z=-2980.71] died: Dorin was slain by Jukusting
