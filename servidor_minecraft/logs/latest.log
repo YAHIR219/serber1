@@ -4003,3 +4003,28 @@ Things may not work well.
 [20Mar2025 19:29:56.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 116e9c76-7157-3f7d-8106-557b209a5b07
 [20Mar2025 19:29:57.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 116e9c76-7157-3f7d-8106-557b209a5b07
 [20Mar2025 19:29:57.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PlagaXNZ (116e9c76-7157-3f7d-8106-557b209a5b07) successfully connected to voice chat
+[20Mar2025 19:39:13.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set the time to 1000]
+[20Mar2025 19:43:09.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukusting[/127.113.44.68:47405] logged in with entity id 21162 at (24.526009726686773, 71.99918707874468, 932.747570120117)
+[20Mar2025 19:43:09.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting joined the game
+[20Mar2025 19:43:09.932] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2c865b14-cc57-3462-88a0-56205ddefec7
+[20Mar2025 19:43:14.479] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jukusting (18)
+[20Mar2025 19:43:14.479] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jukusting
+[20Mar2025 19:43:22.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2c865b14-cc57-3462-88a0-56205ddefec7
+[20Mar2025 19:43:23.610] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2c865b14-cc57-3462-88a0-56205ddefec7
+[20Mar2025 19:43:23.610] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jukusting (2c865b14-cc57-3462-88a0-56205ddefec7) successfully connected to voice chat
+[20Mar2025 19:43:24.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukusting was kicked for floating too long!
+[20Mar2025 19:43:24.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukusting lost connection: Flying is not enabled on this server
+[20Mar2025 19:43:24.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting left the game
+[20Mar2025 19:43:24.995] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2c865b14-cc57-3462-88a0-56205ddefec7
+[20Mar2025 19:43:24.996] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukusting
+[20Mar2025 19:43:37.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukusting[/127.113.44.68:55693] logged in with entity id 21571 at (24.526009726686773, 71.99918707874468, 932.747570120117)
+[20Mar2025 19:43:37.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting joined the game
+[20Mar2025 19:43:37.245] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2c865b14-cc57-3462-88a0-56205ddefec7
+[20Mar2025 19:43:39.562] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jukusting (18)
+[20Mar2025 19:43:39.563] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jukusting
+[20Mar2025 19:43:43.794] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2c865b14-cc57-3462-88a0-56205ddefec7
+[20Mar2025 19:43:44.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2c865b14-cc57-3462-88a0-56205ddefec7
+[20Mar2025 19:43:44.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jukusting (2c865b14-cc57-3462-88a0-56205ddefec7) successfully connected to voice chat
+[20Mar2025 19:44:00.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[20Mar2025 19:44:20.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5446ms or 108 ticks behind
+[20Mar2025 19:44:45.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind

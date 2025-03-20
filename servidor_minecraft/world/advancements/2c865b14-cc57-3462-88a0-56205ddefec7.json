@@ -2594,12 +2594,6 @@
     },
     "done": true
   },
-  "aether:recipes/transportation/skyroot_boat": {
-    "criteria": {
-      "in_water": "2025-03-20 19:25:12 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-03-20 18:59:29 +0000"
@@ -2618,27 +2612,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-03-20 19:26:00 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/shield_repairing": {
     "criteria": {
       "has_shield": "2025-03-20 18:59:29 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_chestplate_repairing": {
-    "criteria": {
-      "has_iron_chestplate": "2025-03-20 19:17:21 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_leggings_repairing": {
-    "criteria": {
-      "has_iron_leggings": "2025-03-20 19:17:22 +0000"
     },
     "done": true
   },
@@ -2654,12 +2630,6 @@
     },
     "done": true
   },
-  "aether:recipes/combat/iron_helmet_repairing": {
-    "criteria": {
-      "has_iron_helmet": "2025-03-20 19:17:21 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/decorations/skyroot_fletching_table": {
     "criteria": {
       "has_flint": "2025-03-20 18:59:29 +0000"
@@ -2672,15 +2642,45 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-03-20 18:59:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-20 19:17:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-03-20 19:17:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-03-20 19:17:22 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_boots_repairing": {
     "criteria": {
       "has_iron_boots": "2025-03-20 19:17:22 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/iron_pickaxe_repairing": {
+  "aether:recipes/transportation/skyroot_boat": {
     "criteria": {
-      "has_iron_pickaxe": "2025-03-20 18:59:29 +0000"
+      "in_water": "2025-03-20 19:25:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-20 19:26:00 +0000"
     },
     "done": true
   },
