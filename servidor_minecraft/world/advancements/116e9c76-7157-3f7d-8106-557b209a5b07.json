@@ -3293,5 +3293,71 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-03-20 17:56:47 +0000"
+    },
+    "done": true
+  },
+  "butcher:firstjoinadvancement": {
+    "criteria": {
+      "firstjoinadvancement_0": "2025-03-20 17:56:47 +0000"
+    },
+    "done": true
+  },
+  "butcher:firstjoinmessage": {
+    "criteria": {
+      "firstjoinmessage_0": "2025-03-20 17:56:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2025-03-20 17:56:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-20 17:56:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-03-20 17:56:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-03-20 17:56:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-20 17:56:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2025-03-20 17:56:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-03-20 17:56:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-03-20 17:56:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
