@@ -218,3 +218,21 @@
 [20Mar2025 00:19:08.980] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [20Mar2025 00:19:08.980] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [20Mar2025 00:19:08.980] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Mar2025 00:27:29.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has reached the goal [Enkindle]
+[20Mar2025 00:27:29.929] [Server thread/INFO] [wehavecookies56.bonfires.Bonfires/]: Bonfire'Reino IceFrost' lit at: X-1269 Y71 Z-3064 by PlagaXNZ
+[20Mar2025 00:33:55.405] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[20Mar2025 00:33:55.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[20Mar2025 00:33:55.407] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[20Mar2025 00:33:55.410] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
+[20Mar2025 00:34:00.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Mar2025 00:34:00.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Mar2025 00:34:00.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Mar2025 00:34:00.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Mar2025 00:34:00.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Mar2025 00:34:00.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Mar2025 00:34:00.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Mar2025 00:34:00.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Mar2025 00:34:00.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Mar2025 00:34:00.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Mar2025 00:34:00.610] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[20Mar2025 00:34:00.620] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!

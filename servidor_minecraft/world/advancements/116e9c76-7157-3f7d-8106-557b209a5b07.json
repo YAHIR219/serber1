@@ -3269,5 +3269,11 @@
     },
     "done": true
   },
+  "bonfires:bonfires/bonfire_lit": {
+    "criteria": {
+      "lit": "2025-03-20 00:27:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
