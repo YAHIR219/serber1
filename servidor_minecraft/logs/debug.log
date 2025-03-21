@@ -13649,3 +13649,29 @@ java.lang.IllegalStateException: Nesting problem.
 [20Mar2025 23:58:24.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Mar2025 23:58:24.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Mar2025 00:01:33.815] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[21Mar2025 00:02:23.746] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/104943, l='ServerLevel[world]', x=-1270.54, y=69.19, z=-3085.57], dimensionLocationPath overworld
+[21Mar2025 00:02:23.746] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/104943, l='ServerLevel[world]', x=-1270.54, y=69.19, z=-3085.57] in list []
+[21Mar2025 00:02:24.445] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/104943, l='ServerLevel[world]', x=-1269.56, y=69.00, z=-3086.25, removed=DISCARDED]
+[21Mar2025 00:03:24.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 00:03:24.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 00:03:42.545] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/105322, l='ServerLevel[world]', x=-1274.45, y=71.19, z=-3088.67], dimensionLocationPath overworld
+[21Mar2025 00:03:42.545] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/105322, l='ServerLevel[world]', x=-1274.45, y=71.19, z=-3088.67] in list []
+[21Mar2025 00:03:43.196] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/105322, l='ServerLevel[world]', x=-1273.79, y=70.14, z=-3087.73, removed=DISCARDED]
+[21Mar2025 00:04:53.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> amigo
+[21Mar2025 00:04:53.745] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[21Mar2025 00:04:53.896] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[21Mar2025 00:05:01.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> adonde se aplana
+[21Mar2025 00:08:13.795] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[21Mar2025 00:08:24.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 00:08:24.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 00:09:54.346] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/106379, l='ServerLevel[world]', x=-1276.34, y=69.54, z=-3092.63], dimensionLocationPath overworld
+[21Mar2025 00:09:54.346] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/106379, l='ServerLevel[world]', x=-1276.34, y=69.54, z=-3092.63] in list []
+[21Mar2025 00:09:54.845] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/106379, l='ServerLevel[world]', x=-1276.16, y=69.30, z=-3093.23, removed=DISCARDED]
+[21Mar2025 00:10:00.696] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/106407, l='ServerLevel[world]', x=-1278.27, y=69.44, z=-3086.74], dimensionLocationPath overworld
+[21Mar2025 00:10:00.696] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/106407, l='ServerLevel[world]', x=-1278.27, y=69.44, z=-3086.74] in list []
+[21Mar2025 00:10:01.645] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/106407, l='ServerLevel[world]', x=-1279.45, y=68.00, z=-3086.13, removed=DISCARDED]
+[21Mar2025 00:10:09.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> para gil
+[21Mar2025 00:10:19.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> como los bordes del muro no
+[21Mar2025 00:10:24.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> ya vuelvo
+[21Mar2025 00:11:06.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> D1
+[21Mar2025 00:11:33.846] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
