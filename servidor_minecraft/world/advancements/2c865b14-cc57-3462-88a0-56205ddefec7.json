@@ -1623,6 +1623,7 @@
   },
   "recrafted_creatures:unfamiliar_fauna": {
     "criteria": {
+      "zebra": "2025-03-21 00:31:24 +0000",
       "giraffe": "2025-03-21 00:28:08 +0000",
       "beaver": "2025-03-19 00:20:26 +0000",
       "mammoth": "2025-03-20 20:43:26 +0000"
@@ -2896,6 +2897,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-03-21 00:33:49 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_barrel": {
     "criteria": {
       "has_planks": "2025-03-20 23:36:46 +0000"
@@ -2961,6 +2968,12 @@
       "has_planks": "2025-03-20 23:36:46 +0000"
     },
     "done": true
+  },
+  "recrafted_creatures:animal_whisperer": {
+    "criteria": {
+      "zebra": "2025-03-21 00:31:51 +0000"
+    },
+    "done": false
   },
   "aether:recipes/combat/zanite_sword": {
     "criteria": {
