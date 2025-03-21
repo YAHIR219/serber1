@@ -25,3 +25,4 @@
 [21Mar2025 00:44:55.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4286ms or 85 ticks behind
 [21Mar2025 00:45:13.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3501ms or 70 ticks behind
 [21Mar2025 00:52:15.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported PlagaXNZ to Jukusting]
+[21Mar2025 01:01:33.745] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26002, l='ServerLevel[world]', x=-1109.76, y=71.23, z=-2879.74, removed=DISCARDED]

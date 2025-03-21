@@ -2873,9 +2873,21 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2025-03-21 00:57:12 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/skyroot_hoe": {
     "criteria": {
       "has_planks": "2025-03-20 23:36:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-03-21 00:52:43 +0000"
     },
     "done": true
   },
@@ -3245,6 +3257,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-03-21 00:57:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-03-20 23:51:14 +0000"
@@ -3287,9 +3305,21 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/strawberry": {
+    "criteria": {
+      "has_strawberry_seeds": "2025-03-21 00:55:56 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/zanite_axe": {
     "criteria": {
       "has_zanite": "2025-03-20 22:52:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-21 00:52:43 +0000"
     },
     "done": true
   },
