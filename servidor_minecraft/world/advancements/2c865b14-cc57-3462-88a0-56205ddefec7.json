@@ -3119,6 +3119,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-03-21 00:46:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-03-20 21:54:06 +0000"
@@ -3389,6 +3395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-21 00:40:27 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/zanite_helmet": {
     "criteria": {
       "has_zanite": "2025-03-20 22:52:11 +0000"
@@ -3518,6 +3530,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-03-20 22:13:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-03-21 00:42:20 +0000"
     },
     "done": true
   },

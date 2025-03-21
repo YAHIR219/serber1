@@ -21,3 +21,7 @@
 [21Mar2025 00:33:49.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Masquerade]
 [21Mar2025 00:40:13.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Voluntary Exile]
 [21Mar2025 00:42:39.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has completed the challenge [Hero of the Village]
+[21Mar2025 00:44:36.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Mar2025 00:44:55.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4286ms or 85 ticks behind
+[21Mar2025 00:45:13.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3501ms or 70 ticks behind
+[21Mar2025 00:52:15.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported PlagaXNZ to Jukusting]

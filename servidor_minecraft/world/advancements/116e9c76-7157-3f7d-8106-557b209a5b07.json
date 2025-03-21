@@ -161,6 +161,7 @@
       "minecraft:skeleton": "2025-03-18 04:28:53 +0000",
       "minecraft:ghast": "2025-03-19 02:42:31 +0000",
       "minecraft:hoglin": "2025-03-18 22:51:44 +0000",
+      "minecraft:vindicator": "2025-03-21 00:40:13 +0000",
       "minecraft:magma_cube": "2025-03-19 03:06:07 +0000",
       "minecraft:spider": "2025-03-18 04:18:06 +0000",
       "minecraft:creeper": "2025-03-18 04:17:26 +0000",
@@ -3672,9 +3673,45 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2025-03-21 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_pickaxe_repairing": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-03-21 00:44:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-21 00:40:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-03-21 00:46:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-03-21 00:42:39 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_shovel_repairing": {
     "criteria": {
       "has_iron_shovel": "2025-03-20 23:51:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-03-21 00:44:07 +0000"
     },
     "done": true
   },
@@ -3687,6 +3724,18 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-03-21 00:38:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_helmet_repairing": {
+    "criteria": {
+      "has_chainmail_helmet": "2025-03-21 00:47:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_axe_repairing": {
+    "criteria": {
+      "has_stone_axe": "2025-03-21 00:47:46 +0000"
     },
     "done": true
   },
