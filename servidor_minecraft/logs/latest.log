@@ -26,3 +26,14 @@
 [21Mar2025 00:45:13.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3501ms or 70 ticks behind
 [21Mar2025 00:52:15.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported PlagaXNZ to Jukusting]
 [21Mar2025 01:01:33.745] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26002, l='ServerLevel[world]', x=-1109.76, y=71.23, z=-2879.74, removed=DISCARDED]
+[21Mar2025 01:03:57.037] [Worker-Main-92/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[21Mar2025 01:03:59.107] [Worker-Main-236/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[21Mar2025 01:03:59.107] [Worker-Main-236/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[21Mar2025 01:03:59.107] [Worker-Main-236/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[21Mar2025 01:03:59.107] [Worker-Main-236/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[21Mar2025 01:04:32.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[21Mar2025 01:04:49.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[21Mar2025 01:05:39.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported Jukusting to PlagaXNZ]
+[21Mar2025 01:09:20.706] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[21Mar2025 01:09:20.706] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[21Mar2025 01:09:38.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
