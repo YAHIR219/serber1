@@ -62,6 +62,7 @@
       "minecraft:old_growth_birch_forest": "2025-03-19 04:48:49 +0000",
       "minecraft:deep_dark": "2025-03-18 21:37:37 +0000",
       "minecraft:meadow": "2025-03-18 23:52:05 +0000",
+      "minecraft:savanna": "2025-03-21 00:27:52 +0000",
       "minecraft:plains": "2025-03-18 23:52:06 +0000"
     },
     "done": false
@@ -1622,6 +1623,7 @@
   },
   "recrafted_creatures:unfamiliar_fauna": {
     "criteria": {
+      "giraffe": "2025-03-21 00:28:08 +0000",
       "beaver": "2025-03-19 00:20:26 +0000",
       "mammoth": "2025-03-20 20:43:26 +0000"
     },
@@ -2948,6 +2950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-21 00:10:45 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/skyroot_stick": {
     "criteria": {
       "has_planks": "2025-03-20 23:36:46 +0000"
@@ -3338,6 +3346,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-03-21 00:21:33 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/zanite_shovel": {
     "criteria": {
       "has_zanite": "2025-03-20 22:52:11 +0000"
@@ -3527,6 +3541,12 @@
   "aether:read_lore": {
     "criteria": {
       "lore_book_entry": "2025-03-20 23:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-21 00:10:45 +0000"
     },
     "done": true
   },

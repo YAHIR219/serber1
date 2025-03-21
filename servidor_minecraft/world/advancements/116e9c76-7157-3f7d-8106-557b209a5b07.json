@@ -3678,5 +3678,11 @@
     },
     "done": true
   },
+  "aether:recipes/misc/flower_to_purple_dye": {
+    "criteria": {
+      "has_purple_flower": "2025-03-21 00:27:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
